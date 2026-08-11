@@ -87,7 +87,20 @@
       "sortOrder": 7
     }
   ],
-  "markers": [],
+  "markers": [
+    {
+      "id": "900088d7cb9341e69f7e0402246a9c80",
+      "name": "Test",
+      "description": "",
+      "categoryId": "9f657976ca804475b0780a0c9aa31b5d",
+      "x": 1287.09,
+      "y": 2202.06,
+      "scale": 1,
+      "photos": [],
+      "createdUtc": "2026-08-11T13:25:39.2073428Z",
+      "modifiedUtc": "2026-08-11T13:25:43.2803966Z"
+    }
+  ],
   "translations": [
     {
       "code": "ru",
@@ -110,9 +123,9 @@
     "repo": "Tarkov_Maps",
     "branch": "main",
     "folderPath": "maps/Labyrinth",
-    "lastCommitSha": "ed549556661a29d53cf10d7f41ae3e51ad696f94",
-    "lastFolderSha": "8023efdfca20e795817061df53dfca22a6602ea7",
-    "lastSyncUtc": "2026-08-11T09:51:00.2854549Z"
+    "lastCommitSha": "63e7cee743b3c60d1349c659049c53bc2e1b9fa9",
+    "lastFolderSha": "b0c6a58a7a012b2acbc3ce9a703afbe7ae57da00",
+    "lastSyncUtc": "2026-08-11T11:15:53.9400464Z"
   },
-  "modifiedUtc": "2026-08-11T11:15:50.2599372Z"
+  "modifiedUtc": "2026-08-11T13:25:55.3122743Z"
 }
