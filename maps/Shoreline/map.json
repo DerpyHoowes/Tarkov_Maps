@@ -299,6 +299,30 @@
       ],
       "createdUtc": "2026-08-11T14:47:22.3139787Z",
       "modifiedUtc": "2026-08-11T14:48:20.1398689Z"
+    },
+    {
+      "id": "fb7935b9e69b4eadbc72cdbcce5787c6",
+      "name": "\u041D\u0430 \u043B\u0430\u0432\u043E\u0447\u043A\u0435",
+      "description": "\u041F\u043E\u0442\u043E\u043C \u0437\u0430\u043F\u043E\u043B\u043D\u044E",
+      "categoryId": "9dd4689209d04ef59dec821154c8b287",
+      "x": 2522.47,
+      "y": 2577.09,
+      "scale": 1,
+      "photos": [],
+      "createdUtc": "2026-08-11T21:14:57.28897Z",
+      "modifiedUtc": "2026-08-11T21:15:10.1949112Z"
+    },
+    {
+      "id": "e70cf9e2cc6548058de77816e3d1933f",
+      "name": "\u041F\u043E\u0442\u043E\u043C",
+      "description": "\u041D\u0430 \u043A\u043B\u0435\u0441\u043B\u0435",
+      "categoryId": "9dd4689209d04ef59dec821154c8b287",
+      "x": 1490.84,
+      "y": 2897.97,
+      "scale": 1,
+      "photos": [],
+      "createdUtc": "2026-08-11T21:15:14.7279104Z",
+      "modifiedUtc": "2026-08-11T21:15:50.385974Z"
     }
   ],
   "translations": [],
@@ -307,9 +331,9 @@
     "repo": "Tarkov_Maps",
     "branch": "main",
     "folderPath": "maps/Shoreline",
-    "lastCommitSha": "4a1695ce49cb6fb847c899e1a9da0abf662c8312",
-    "lastFolderSha": "f1f98b73011249a28bb1d54d1a884b0b61d9cb71",
-    "lastSyncUtc": "2026-08-11T11:56:51.9378908Z"
+    "lastCommitSha": "23722d3aa78c876fac7f7272d2b7ad1dda43d216",
+    "lastFolderSha": "97a66d1bc404d505bd6bbdf6bef1382761e0297b",
+    "lastSyncUtc": "2026-08-11T21:11:57.8462102Z"
   },
-  "modifiedUtc": "2026-08-11T14:48:40.8904009Z"
+  "modifiedUtc": "2026-08-11T21:16:13.8108813Z"
 }
