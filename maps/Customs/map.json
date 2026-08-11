@@ -124,7 +124,7 @@
       "code": "ru",
       "name": "Russian",
       "strings": {
-        "map.name": "Customs",
+        "map.name": "\u0422\u0430\u043C\u043E\u0436\u043D\u044F",
         "category.9f657976ca804475b0780a0c9aa31b5d.name": "\u0424\u0438\u043D\u0430\u043D\u0441\u043E\u0432\u0430\u044F \u0434\u043E\u043A.",
         "category.2370cef0309d4b929616b96deeddcd09.name": "\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u0430\u044F \u0434\u043E\u043A.",
         "category.15f56b19debf4ba588781b1cb92f6776.name": "\u0422\u0435\u0445. \u0434\u043E\u043A.",
@@ -144,9 +144,9 @@
     "repo": "Tarkov_Maps",
     "branch": "main",
     "folderPath": "maps/Customs",
-    "lastCommitSha": "54d38e7fd20e6a40d2f87247f738555f46bf22b2",
-    "lastFolderSha": "50d638c4a63eeacddf33be50d2585f923b4ef1e4",
-    "lastSyncUtc": "2026-08-11T09:02:28.2607147Z"
+    "lastCommitSha": "b6b221d4057e3c7c37adc858031ab9299fb4107b",
+    "lastFolderSha": "20c4ae0a528b98a28f888ce87863b889e4092116",
+    "lastSyncUtc": "2026-08-11T11:21:09.4449583Z"
   },
-  "modifiedUtc": "2026-08-11T11:21:05.2437666Z"
+  "modifiedUtc": "2026-08-11T11:21:45.5319934Z"
 }
