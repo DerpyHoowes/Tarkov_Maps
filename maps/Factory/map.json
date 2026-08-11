@@ -149,14 +149,14 @@
     {
       "id": "26ad84ba68e9474e9e2255249846c19f",
       "name": "\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u043F\u043E\u0434 \u043A\u043B\u044E\u0447\u043E\u043C",
-      "description": "",
+      "description": "\u0412 \u0442\u0443\u043C\u0431\u043E\u0447\u043A\u0435 \u0441\u0440\u0430\u0437\u0443 \u0441\u043B\u0435\u0432\u0430 \u043E\u0442 \u0432\u0445\u043E\u0434\u0430",
       "categoryId": "2370cef0309d4b929616b96deeddcd09",
       "x": 100.9875,
       "y": 636.715,
       "scale": 1,
       "photos": [],
       "createdUtc": "2026-08-11T09:09:57.0509264Z",
-      "modifiedUtc": "2026-08-11T09:28:18.3974369Z"
+      "modifiedUtc": "2026-08-11T10:00:42.5057636Z"
     },
     {
       "id": "253532a46b0b4a66a03138b528f1d943",
@@ -472,9 +472,14 @@
       "x": 91.23,
       "y": 686.33,
       "scale": 1,
-      "photos": [],
+      "photos": [
+        {
+          "asset": "assets/f8b1cf9055a247c0f271.jpg",
+          "caption": ""
+        }
+      ],
       "createdUtc": "2026-08-11T09:44:57.0020457Z",
-      "modifiedUtc": "2026-08-11T09:45:06.7020699Z"
+      "modifiedUtc": "2026-08-11T10:01:19.571459Z"
     },
     {
       "id": "e36460a1756e473dae3b47161db5a2ab",
@@ -484,9 +489,14 @@
       "x": 360.93,
       "y": 129.86,
       "scale": 1,
-      "photos": [],
+      "photos": [
+        {
+          "asset": "assets/84f717addb90ccae5ac0.jpg",
+          "caption": ""
+        }
+      ],
       "createdUtc": "2026-08-11T09:46:00.9269941Z",
-      "modifiedUtc": "2026-08-11T09:46:28.2868899Z"
+      "modifiedUtc": "2026-08-11T10:00:10.6781669Z"
     },
     {
       "id": "1e89904245454a9e862d22461da48315",
@@ -528,9 +538,9 @@
     "repo": "Tarkov_Maps",
     "branch": "main",
     "folderPath": "maps/Factory",
-    "lastCommitSha": "7884836aacbc8139046839e52bbb06b798e7d038",
-    "lastFolderSha": "d19a732b16b6162766f95d17a4686e5ac7983686",
-    "lastSyncUtc": "2026-08-11T09:08:21.1082873Z"
+    "lastCommitSha": "12da6a859142a7fe9f4d5406709633853dbd6df6",
+    "lastFolderSha": "d6be5971376cdf53a6ff9918688f9c53d2ec8654",
+    "lastSyncUtc": "2026-08-11T09:56:24.5375689Z"
   },
-  "modifiedUtc": "2026-08-11T09:55:51.8602739Z"
+  "modifiedUtc": "2026-08-11T10:01:29.1957451Z"
 }
