@@ -1,24 +1,24 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "16a0e80902e343ae88c9b5ab357e2611",
-  "name": "\u0417\u0430\u0432\u043E\u0434",
+  "name": "Factory",
   "baseImage": "assets/11680486d1353bdcfef5.png",
   "imageWidth": 903,
   "imageHeight": 935,
   "categories": [
     {
       "id": "9f657976ca804475b0780a0c9aa31b5d",
-      "name": "\u0424\u0438\u043D\u0430\u043D\u0441\u043E\u0432\u0430\u044F \u0434\u043E\u043A.",
+      "name": "Financial doc.",
       "color": "#2E86AB",
       "icon": "Circle",
       "iconAsset": "assets/c2e17e9b24bb11c0c9e1.png",
       "defaultScale": 1,
-      "isVisible": true,
+      "isVisible": false,
       "sortOrder": 0
     },
     {
       "id": "2370cef0309d4b929616b96deeddcd09",
-      "name": "\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u0430\u044F \u0434\u043E\u043A.",
+      "name": "Project doc.",
       "color": "#F6BD60",
       "icon": "Chest",
       "iconAsset": "assets/186765ea0ef7cf2eac7f.png",
@@ -28,7 +28,7 @@
     },
     {
       "id": "15f56b19debf4ba588781b1cb92f6776",
-      "name": "\u0422\u0435\u0445. \u0434\u043E\u043A.",
+      "name": "Blueprints and technical doc.",
       "color": "#3F6DE0",
       "icon": "Skull",
       "iconAsset": "assets/5571a8bf5769e3846fc1.png",
@@ -38,117 +38,121 @@
     },
     {
       "id": "010d49d821a54f49ad6807f3757a74ec",
-      "name": "\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u0430\u044F \u0434\u043E\u043A.",
+      "name": "User Doc.",
       "color": "#B455CE",
       "icon": "Book",
       "iconAsset": "assets/da41d91886d7f8abf6f2.png",
       "defaultScale": 1,
-      "isVisible": true,
+      "isVisible": false,
       "sortOrder": 3
     },
     {
       "id": "a772bad2445446ab848f81a6a43b00f7",
-      "name": "\u041C\u0435\u0434\u0438\u0446\u0438\u043D\u0441\u043A\u0430\u044F \u0434\u043E\u043A.",
+      "name": "Medical Doc.",
       "color": "#4CB944",
       "icon": "Dot",
       "iconAsset": "assets/98b6ee95dbc8356b56a6.png",
       "defaultScale": 1,
-      "isVisible": true,
+      "isVisible": false,
       "sortOrder": 4
     },
     {
       "id": "9dd4689209d04ef59dec821154c8b287",
-      "name": "\u042D\u043A\u0441\u043F\u043B\u0443\u0430\u0442\u0430\u0446\u0438\u043E\u043D\u043D\u0430\u044F \u0434\u043E\u043A.",
+      "name": "Technical Doc.",
       "color": "#7A7A7A",
       "icon": "Dot",
       "iconAsset": "assets/c732fb936a9711d52f93.png",
       "defaultScale": 1,
-      "isVisible": true,
+      "isVisible": false,
       "sortOrder": 5
     },
     {
       "id": "33d8088b1398491d9f717cd4565095a9",
-      "name": "\u0422\u0435\u0441\u0442\u043E\u0432\u0430\u044F \u0434\u043E\u043A.",
+      "name": "Test Doc.",
       "color": "#2B2D42",
       "icon": "Dot",
       "iconAsset": "assets/60c5e10adc2abe7dd49f.png",
       "defaultScale": 1,
-      "isVisible": true,
+      "isVisible": false,
       "sortOrder": 6
     }
   ],
   "markers": [
     {
       "id": "8b0c4d1f540d46d8bd037eb97e98bf50",
-      "name": "\u0422\u0435\u0445\u043D\u0438\u0447\u043A\u0430 \u0437\u0430\u043A\u0440\u044B\u0442\u0430\u044F 1 \u044D\u0442\u0430\u0436",
-      "description": "\u0417\u0430\u043A\u0440\u044B\u0442\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430 \u043D\u0430 1 \u044D\u0442\u0430\u0436\u0435 \u043E\u0444\u0438\u0441\u043E\u0432 \u0437\u0430\u0432\u043E\u0434\u0430 (\u0437\u0430\u0431\u0440\u0430\u0442\u044C\u0441\u044F \u043C\u043E\u0436\u043D\u043E \u0441 \u0443\u043B\u0438\u0446\u044B \u0447\u0435\u0440\u0435\u0437 \u043E\u043A\u043D\u043E)",
+      "name": "Blueprints Offices 1st Floor locked room",
+      "description": "Locked room on the 1st floor of Factory offices (accessible through window from the outside)",
       "categoryId": "15f56b19debf4ba588781b1cb92f6776",
       "x": 124.74,
       "y": 160.17,
       "scale": 1,
       "photos": [
         {
+          "id": "5d66eba2309149d3bbba2f7fe62037a0",
           "asset": "assets/4f5356bb710471d64a0e.jpg",
           "caption": ""
         }
       ],
       "createdUtc": "2026-08-11T09:08:43.3161433Z",
-      "modifiedUtc": "2026-08-11T09:29:56.4333434Z"
+      "modifiedUtc": "2026-08-11T12:29:21.3140357Z"
     },
     {
       "id": "44385b6889ce4684bdb100eb655d7f21",
-      "name": "\u0412\u0440\u0435\u043C\u044F\u043D\u043A\u0430 \u043F\u0440\u043E\u0435\u043A\u0442\u044B",
-      "description": "\u0416\u0435\u043B\u0435\u0437\u043D\u0430\u044F \u0431\u0443\u0434\u043A\u0430 \u0440\u044F\u0434\u043E\u043C \u0441 \u0432\u044B\u0445\u043E\u0434\u043E\u043C \u00AB\u0412\u043E\u0440\u043E\u0442\u0430 3\u00BB",
+      "name": "Project doc. Workshop",
+      "description": "Workshop inside of a metal shed right next to \u0022Gate 3\u0022 extract",
       "categoryId": "2370cef0309d4b929616b96deeddcd09",
       "x": 176.14,
       "y": 71.98,
       "scale": 1,
       "photos": [
         {
+          "id": "dda48b2d0eec4b5397f5ee018abb6c3b",
           "asset": "assets/ad89a92d2305f4055424.jpg",
           "caption": ""
         }
       ],
       "createdUtc": "2026-08-11T09:09:01.2190134Z",
-      "modifiedUtc": "2026-08-11T09:42:49.0213004Z"
+      "modifiedUtc": "2026-08-11T12:14:31.0745489Z"
     },
     {
       "id": "2ccd29c81c3447839fa5d0eabecaa0fa",
-      "name": "\u0422\u0440\u0430\u043D\u0441\u0444\u043E\u0440\u043C\u0430\u0442\u043E\u0440 \u043D\u0430\u0434 \u0446\u0438\u0444\u0440\u0430\u043C\u0438",
-      "description": "\u0412 \u0442\u0440\u0430\u043D\u0441\u0444\u043E\u0440\u043C\u0430\u0442\u043E\u0440\u0430\u0445 \u0440\u044F\u0434\u043E\u043C \u0441 \u043D\u0430\u0434\u043F\u0438\u0441\u044C\u044E \u043D\u0430 \u0441\u0442\u0435\u043D\u0435 \u00AB1986\u00BB",
+      "name": "Project doc. Transformers",
+      "description": "In the transformer boxes right under \u00221986\u0022 sign",
       "categoryId": "2370cef0309d4b929616b96deeddcd09",
       "x": 530.04,
       "y": 787.98,
       "scale": 1,
       "photos": [
         {
+          "id": "f5ecba6244f74507a2fb941b8e4e00c1",
           "asset": "assets/a37610c984c2e324cb54.jpg",
           "caption": ""
         }
       ],
       "createdUtc": "2026-08-11T09:09:26.3299882Z",
-      "modifiedUtc": "2026-08-11T09:43:55.6792326Z"
+      "modifiedUtc": "2026-08-11T12:22:31.9470622Z"
     },
     {
       "id": "8ce9d47691dc4e5fbb825ad8c42d50b7",
-      "name": "\u0412\u044B\u0431\u0438\u0442\u0430\u044F \u0434\u0432\u0435\u0440\u044C ",
-      "description": "\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0435 \u0434\u043E\u043A\u0438 \u0437\u0430 \u0437\u0430\u0431\u0438\u0442\u043E\u0439 \u0434\u0432\u0435\u0440\u044C\u044E \u043D\u0430 \u043F\u043E\u043B\u0443",
+      "name": "Project doc. Offices 3rd Floor Broken Door Room",
+      "description": "Behind the door you can knock out, on the floor",
       "categoryId": "2370cef0309d4b929616b96deeddcd09",
       "x": 95.8025,
       "y": 650.755,
       "scale": 1,
       "photos": [
         {
+          "id": "5e2b64d624a24f599da2fccde9c39e28",
           "asset": "assets/5296b1dc4e9695029f88.jpg",
           "caption": ""
         }
       ],
       "createdUtc": "2026-08-11T09:09:51.5689272Z",
-      "modifiedUtc": "2026-08-11T09:41:43.1402487Z"
+      "modifiedUtc": "2026-08-11T12:36:50.6418536Z"
     },
     {
       "id": "26ad84ba68e9474e9e2255249846c19f",
-      "name": "\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u043F\u043E\u0434 \u043A\u043B\u044E\u0447\u043E\u043C",
+      "name": "Project doc. Offices 3rd Floor Locked room",
       "description": "\u0412 \u0442\u0443\u043C\u0431\u043E\u0447\u043A\u0435 \u0441\u0440\u0430\u0437\u0443 \u0441\u043B\u0435\u0432\u0430 \u043E\u0442 \u0432\u0445\u043E\u0434\u0430",
       "categoryId": "2370cef0309d4b929616b96deeddcd09",
       "x": 100.9875,
@@ -156,381 +160,473 @@
       "scale": 1,
       "photos": [],
       "createdUtc": "2026-08-11T09:09:57.0509264Z",
-      "modifiedUtc": "2026-08-11T10:00:42.5057636Z"
+      "modifiedUtc": "2026-08-11T12:28:37.0421291Z"
     },
     {
       "id": "253532a46b0b4a66a03138b528f1d943",
-      "name": "\u0422\u0435\u0445\u043D\u0438\u0447\u043A\u0430 \u043E\u0444\u0438\u0441 3 \u044D\u0442 \u0432 \u0441\u0442\u043E\u043B\u0435",
-      "description": "3 \u044D\u0442\u0430\u0436 \u043E\u0444\u0438\u0441 \u0432 \u0432\u044B\u0434\u0432\u0438\u0436\u043D\u043E\u043C \u044F\u0449\u0438\u043A\u0435 \u0441\u0442\u043E\u043B\u0430",
+      "name": "Blueprints Offices 3rd Floor Safe Room",
+      "description": "Inside one of the drawers in the room with an open safe",
       "categoryId": "15f56b19debf4ba588781b1cb92f6776",
       "x": 94.91,
       "y": 656.8,
       "scale": 1,
       "photos": [
         {
+          "id": "b8f3c1512d344c94b226b3a3a110e131",
           "asset": "assets/148772f982433c849c8c.jpg",
           "caption": ""
         }
       ],
       "createdUtc": "2026-08-11T09:10:04.6639267Z",
-      "modifiedUtc": "2026-08-11T09:27:43.6775119Z"
+      "modifiedUtc": "2026-08-11T12:44:44.6577691Z"
     },
     {
       "id": "bc4bae3a536e405683776c0512a613b7",
-      "name": "\u041F\u0440\u043E\u0435\u043A\u0442 \u043D\u0430 \u043A\u0430\u0440\u0442\u043E\u0442\u0435\u043A\u0430\u0445",
-      "description": "\u041E\u0444\u0438\u0441 \u043F\u0440\u043E\u0435\u043A\u0442 \u043D\u0430 \u0432\u044B\u0434\u0432\u0438\u0438\u0436\u043D\u044B\u0445 3 \u044D\u0442\r\n",
+      "name": "Project doc. Offices 3rd Floor Safe Room Drawers",
+      "description": "Inside of a drawer in the room with an open safe",
       "categoryId": "2370cef0309d4b929616b96deeddcd09",
       "x": 99.5,
       "y": 656.47,
       "scale": 1,
       "photos": [
         {
+          "id": "c120ec95b26f4ed2beffc77f8c5ea7bd",
           "asset": "assets/32cacda7c49ec665b71e.jpg",
           "caption": ""
         }
       ],
       "createdUtc": "2026-08-11T09:10:10.2630295Z",
-      "modifiedUtc": "2026-08-11T09:47:10.4949528Z"
+      "modifiedUtc": "2026-08-11T12:43:54.0576853Z"
     },
     {
       "id": "1b33cf413d32421ebd586548609946bd",
-      "name": "\u0422\u0435\u0445\u043D\u0438\u0447\u043A\u0430 \u043E\u0444\u0438\u0441 3 \u044D\u0442",
-      "description": "3 \u044D\u0442\u0430\u0436 \u043E\u0444\u0438\u0441\u043E\u0432 \u0432\u043E\u0437\u043B\u0435 \u0441\u0442\u043E\u043B\u0430 \u0441 \u0440\u0430\u0431\u043E\u0447\u0438\u043C \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043E\u043C",
+      "name": "Blueprints Offices 3rd Floor Safe Room",
+      "description": "In the room with an open safe",
       "categoryId": "15f56b19debf4ba588781b1cb92f6776",
       "x": 98.73,
       "y": 685.76,
       "scale": 1,
       "photos": [
         {
+          "id": "65ec4045eaa14eeaadff8d1da45a4609",
           "asset": "assets/093f86ee716a802a5618.jpg",
           "caption": ""
         }
       ],
       "createdUtc": "2026-08-11T09:10:16.5800219Z",
-      "modifiedUtc": "2026-08-11T09:26:47.2435Z"
+      "modifiedUtc": "2026-08-11T12:36:02.7059999Z"
     },
     {
       "id": "e5255c3e24e74ddb884641fa341c0af7",
-      "name": "\u041A\u0430\u0440\u0442\u043E\u0442\u0435\u043A\u0438 \u043A\u043E\u0440\u0438\u0434\u043E\u0440\u043D\u044B\u0435",
-      "description": "3 \u044D\u0442\u0430\u0436 \u043E\u0444\u0438\u0441\u043E\u0432 \u0437\u0430\u0432\u043E\u0434\u0430 \u0432 \u043E\u0442\u043A\u0440\u044B\u0442\u043E\u0439 \u043A\u0430\u0440\u0442\u043E\u0442\u0435\u043A\u0435 \u0432 \u043A\u043E\u0440\u0438\u0434\u043E\u0440\u0435",
+      "name": "Blueprints Offices 3rd Floor Drawers",
+      "description": "Offices 3rd floor in an open drawer in the corridor",
       "categoryId": "15f56b19debf4ba588781b1cb92f6776",
       "x": 106.42,
       "y": 627.4,
       "scale": 1,
       "photos": [
         {
+          "id": "191d1447f5944bd8ae93569e5a25e9fe",
           "asset": "assets/32b949820b2dd897dcab.jpg",
           "caption": ""
         }
       ],
       "createdUtc": "2026-08-11T09:10:26.3158855Z",
-      "modifiedUtc": "2026-08-11T09:28:48.1404714Z"
+      "modifiedUtc": "2026-08-11T12:28:48.7784738Z"
     },
     {
       "id": "fe75a146e80f416d8a3bec0797cb9393",
-      "name": "\u0422\u0435\u0445\u043D\u0438\u0447\u043A\u0430 \u043B\u0430\u0431\u0430 3 \u044D\u0442",
-      "description": "\u041B\u0430\u0431\u0430 \u0442\u0440\u0435\u0442\u0438\u0439 \u044D\u0442\u0430\u0436 \u0432 \u0441\u0442\u043E\u043B\u0435",
+      "name": "Blueprints Lab 3rd Floor",
+      "description": "In a table\u0027s drawer on the third floor of chemical laboratory",
       "categoryId": "15f56b19debf4ba588781b1cb92f6776",
       "x": 732.0038961004409,
       "y": 641.773017962059,
       "scale": 1,
       "photos": [
         {
+          "id": "540a8a2c0f7249c48d7199a533f2ee83",
           "asset": "assets/249e5b94772bca01a94b.jpg",
           "caption": ""
         }
       ],
       "createdUtc": "2026-08-11T09:10:37.0948914Z",
-      "modifiedUtc": "2026-08-11T09:26:04.0995986Z"
+      "modifiedUtc": "2026-08-11T12:21:09.0502948Z"
     },
     {
       "id": "483b8816f86c403da0943856fc1e90cd",
-      "name": "\u041B\u0430\u0431\u0430 \u043F\u0440\u043E\u0435\u043A\u0442 3 \u044D\u0442 ",
-      "description": "\u0417\u0430\u043D\u044B\u043A\u0430\u043B\u0441\u044F \u0432 \u0441\u0442\u044B\u043A\u0435 \u043C\u0435\u0436\u0434\u0443 \u0448\u043A\u0430\u0444\u043E\u043C \u0438 \u0442\u0443\u043C\u0431\u043E\u0439 \u044E\u043C\u0431\u043E\u0439",
+      "name": "Project doc. Lab 3rd Floor",
+      "description": "Inbetween a wardrobe nad a counter on the third floor of chemical laboratory",
       "categoryId": "2370cef0309d4b929616b96deeddcd09",
       "x": 678.37,
       "y": 641.13,
       "scale": 1,
       "photos": [
         {
+          "id": "690a1eb4bd78411096427c3c2380ffe1",
           "asset": "assets/0385cb6c89f3f2e323c9.jpg",
           "caption": ""
         }
       ],
       "createdUtc": "2026-08-11T09:10:42.0898064Z",
-      "modifiedUtc": "2026-08-11T09:45:33.4762174Z"
+      "modifiedUtc": "2026-08-11T12:21:53.546801Z"
     },
     {
       "id": "be3317af357947b9a6527dd34e33a050",
-      "name": "\u041B\u0430\u0431\u0430 \u0441\u0442\u043E\u043B\u043E\u0432\u043A\u0430",
-      "description": "1 \u044D\u0442\u0430\u0436 \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u0438\u0438 \u0441\u0442\u043E\u043B\u043E\u0432\u043A\u0430",
+      "name": "Blueprints Lab 1st Floor Mess Hall",
+      "description": "In the mess hall",
       "categoryId": "15f56b19debf4ba588781b1cb92f6776",
       "x": 362.84,
       "y": 143.17,
       "scale": 1,
       "photos": [
         {
+          "id": "3ebb711f493a46dfaec868b42e7d2153",
           "asset": "assets/3e86b173d3dcccb10554.jpg",
           "caption": ""
         }
       ],
       "createdUtc": "2026-08-11T09:11:02.1818505Z",
-      "modifiedUtc": "2026-08-11T09:31:00.4782353Z"
+      "modifiedUtc": "2026-08-11T12:42:43.0096847Z"
     },
     {
       "id": "65d5647cf2164eb9add7ddc6ac479ebb",
-      "name": "\u041B\u0430\u0431\u0430 \u043B\u0430\u0432\u043E\u0447\u043A\u0430",
-      "description": "\u041F\u0435\u0440\u0432\u044B\u0439 \u044D\u0442\u0430\u0436 \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 \u043B\u0430\u0432\u043E\u0447\u043A\u0435",
+      "name": "Blueprints Lab 1st Floor Bench",
+      "description": "On a bench inside Lab\u0027s 1st floor",
       "categoryId": "15f56b19debf4ba588781b1cb92f6776",
       "x": 358.49,
       "y": 162.26,
       "scale": 1,
       "photos": [
         {
+          "id": "8c4ffa07e13d4ed4a1ba97c907958bd1",
           "asset": "assets/0535687b7d02ac383327.jpg",
           "caption": ""
         }
       ],
       "createdUtc": "2026-08-11T09:15:01.3665361Z",
-      "modifiedUtc": "2026-08-11T09:30:53.5402543Z"
+      "modifiedUtc": "2026-08-11T12:37:12.4418674Z"
     },
     {
       "id": "edb840492f8642fb95f74912f19eb601",
-      "name": "\u041E\u0444\u0438\u0441 1 \u044D\u0442\u0430\u0436 \u0442\u0435\u0445\u043D\u0438\u0447\u043A\u0430",
-      "description": "\u041E\u0444\u0438\u0441 \u043F\u0435\u0440\u0432\u044B\u0439 \u044D\u0442\u0430\u0436 \u0432 \u0432\u044B\u0434\u0432\u0438\u0436\u043D\u043E\u043C \u044F\u0449\u0438\u043A\u0435 \u0443 \u0441\u0435\u0439\u0444\u0430",
+      "name": "Blueprints Offices 1st Floor",
+      "description": "Offices 1st floor in an open drawer",
       "categoryId": "15f56b19debf4ba588781b1cb92f6776",
       "x": 134.3,
       "y": 205.75,
       "scale": 1,
       "photos": [
         {
+          "id": "feeffc81f0ef4a8e807bd9fe99d236cd",
           "asset": "assets/19b2913fe1a7821b1c0d.jpg",
           "caption": ""
         }
       ],
       "createdUtc": "2026-08-11T09:15:48.1165319Z",
-      "modifiedUtc": "2026-08-11T09:29:44.4583383Z"
+      "modifiedUtc": "2026-08-11T12:29:41.6979829Z"
     },
     {
       "id": "59c251b259ac4804905d6b410271aaf5",
-      "name": "\u0422\u0435\u0445\u043D\u0438\u0447\u043A\u0430 \u043F\u043E\u0434 \u043A\u043B\u044E\u0447\u043E\u043C",
-      "description": "3 \u044D\u0442\u0430\u0436 \u043E\u0444\u0438\u0441\u043E\u0432 \u0437\u0430\u0432\u043E\u0434\u0430 (\u043A\u043E\u043C\u043D\u0430\u0442\u0430 \u0437\u0430\u043F\u0435\u0440\u0442\u0430\u044F \u043D\u0430 \u00AB\u041A\u043B\u044E\u0447 \u043E\u0442 \u0417\u0430\u0432\u043E\u0434\u0430\u00BB)",
+      "name": "Blueprints Offices 3rd Floor Locked Room",
+      "description": "Offices 3rd floor in a room behind the door locked by \u0022Factory Key\u0022",
       "categoryId": "15f56b19debf4ba588781b1cb92f6776",
       "x": 90.36,
       "y": 636.95,
       "scale": 1,
       "photos": [
         {
+          "id": "8a9c9be13a6f469aaddbf59408208bea",
           "asset": "assets/836545a87804daeda101.jpg",
           "caption": ""
         }
       ],
       "createdUtc": "2026-08-11T09:17:00.7953581Z",
-      "modifiedUtc": "2026-08-11T09:28:04.5184262Z"
+      "modifiedUtc": "2026-08-11T12:33:36.0419004Z"
     },
     {
       "id": "5277d9dc07d94416a1247f508638b34c",
-      "name": "\u0412\u0440\u0435\u043C\u044F\u043D\u043A\u0430 \u0442\u0435\u0445\u043D\u0438\u0447\u043A\u0430",
-      "description": "\u0416\u0435\u043B\u0435\u0437\u043D\u0430\u044F \u0432\u0440\u0435\u043C\u044F\u043D\u043A\u0430 \u0440\u044F\u0434\u043E\u043C \u0441 \u00AB\u0412\u044B\u0445\u043E\u0434\u043E\u043C 3\u00BB",
+      "name": "Blueprints Workshop",
+      "description": "Workshop inside of a metal shed right next to \u0022Gate 3\u0022 extract",
       "categoryId": "15f56b19debf4ba588781b1cb92f6776",
       "x": 187.41,
       "y": 74.01,
       "scale": 1,
       "photos": [
         {
+          "id": "6b15a7632a3f4c929e38fa5e439840b8",
           "asset": "assets/7361a8e47fd81b04d671.jpg",
           "caption": ""
         }
       ],
       "createdUtc": "2026-08-11T09:20:07.1570861Z",
-      "modifiedUtc": "2026-08-11T09:30:32.9922806Z"
+      "modifiedUtc": "2026-08-11T12:14:26.6987101Z"
     },
     {
       "id": "082a97e31e3545fb8a466d7eb1b8da1e",
-      "name": "\u041C\u0435\u0434 \u043F\u0430\u043B\u0430\u0442\u043A\u0430",
-      "description": "\u0412 \u043C\u0435\u0434. \u043F\u0430\u043B\u0430\u0442\u043A\u0435 \u0440\u044F\u0434\u043E\u043C \u0441 \u0432\u044B\u0445\u043E\u0434\u043E\u043C \u00AB\u0412\u043E\u0440\u043E\u0442\u0430 \u0443 \u043C\u0435\u0434\u0438\u0446\u0438\u043D\u0441\u043A\u043E\u0439 \u043F\u0430\u043B\u0430\u0442\u043A\u0438\u00BB",
+      "name": "Blueprints Medical Tent",
+      "description": "Inside of a medical tent next to \u0022Med Tent Gates\u0022 extract, on a metal table to the left",
       "categoryId": "15f56b19debf4ba588781b1cb92f6776",
       "x": 340.63,
       "y": 290.47,
       "scale": 1,
       "photos": [
         {
+          "id": "74c4676f535c48e9a5d2de64923a2c7c",
           "asset": "assets/82ca38dcdbeb5b334c2b.jpg",
           "caption": ""
         }
       ],
       "createdUtc": "2026-08-11T09:21:27.8279925Z",
-      "modifiedUtc": "2026-08-11T09:31:30.3602431Z"
+      "modifiedUtc": "2026-08-11T12:17:43.4823567Z"
     },
     {
       "id": "0623f21c595e45689631d895b1922dfb",
-      "name": "\u0422\u0435\u0445\u043D\u0438\u0447\u043A\u0430 \u043F\u043E\u0434 \u043A\u0432\u0430\u0434\u0440\u0430\u0442\u043E\u043C",
-      "description": "\u041F\u043E\u0434 \u0436\u0435\u043B\u0435\u0437\u043D\u043E\u0439 \u043B\u0435\u0441\u0442\u043D\u0438\u0446\u0435\u0439 \u0440\u044F\u0434\u043E\u043C \u0441 \u043E\u0444\u0438\u0441\u0430\u043C\u0438 \u0437\u0430\u0432\u043E\u0434\u0430",
+      "name": "Blueprints Catwalk Stairs",
+      "description": "Under metal catwalk stairs",
       "categoryId": "15f56b19debf4ba588781b1cb92f6776",
       "x": 198.7645662978516,
       "y": 142.9428314892578,
       "scale": 1,
       "photos": [
         {
+          "id": "84b0076bccff4a729fdcbf0fd321f5df",
           "asset": "assets/d62072457655d8e663b5.jpg",
           "caption": ""
         }
       ],
       "createdUtc": "2026-08-11T09:21:53.1489282Z",
-      "modifiedUtc": "2026-08-11T09:30:19.0154326Z"
+      "modifiedUtc": "2026-08-11T12:13:44.058365Z"
     },
     {
       "id": "aab05735ee4140a7a2214f2b218b3141",
-      "name": "\u0421\u0435\u043A\u0440\u0435\u0442\u043D\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430",
-      "description": "\u0417\u0430 \u0432\u043E\u0440\u043E\u0442\u0430\u043C\u0438 \u21162 \u0432 \u043F\u043E\u043C\u0435\u0449\u0435\u043D\u0438\u0438 \u0441 \u0432\u044B\u0445\u043E\u0434\u043E\u043C \u043D\u0430 \u0443\u043B\u0438\u0446\u0443",
+      "name": "Blueprints Secret Room",
+      "description": "Behind Gate 2 in a room with access to the outside",
       "categoryId": "15f56b19debf4ba588781b1cb92f6776",
       "x": 390.81,
       "y": 96.77,
       "scale": 1,
       "photos": [
         {
+          "id": "ca51f9dec5404d3db256877e79a265cc",
           "asset": "assets/24da5108ec3771f3686f.jpg",
           "caption": ""
         }
       ],
       "createdUtc": "2026-08-11T09:22:36.7958845Z",
-      "modifiedUtc": "2026-08-11T09:31:11.5121883Z"
+      "modifiedUtc": "2026-08-11T12:16:28.53043Z"
     },
     {
       "id": "20850e22af0a45e9b7bf2d5f8ce5faa3",
-      "name": "\u0422\u0443\u043D\u0435\u043B\u044C\u043D\u044B\u0439 \u0442\u0440\u0443\u043F",
-      "description": "\u0412 \u043F\u043E\u0434\u0432\u0430\u043B\u0430\u0445 \u043D\u0435\u0434\u0430\u043B\u0435\u043A\u043E \u043E\u0442 \u043C\u0435\u0434. \u043F\u0430\u043B\u0430\u0442\u043A\u0438 \u0432 \u043D\u043E\u0433\u0430\u0445 \u043C\u0435\u0440\u0442\u0432\u043E\u0433\u043E \u0427\u0412\u041A",
+      "name": "Blueprints Dead body",
+      "description": "In the underground tunnel under Medical tent, beside dead PMC\u0027s legs",
       "categoryId": "15f56b19debf4ba588781b1cb92f6776",
       "x": 769.07,
       "y": 271.03,
       "scale": 1,
       "photos": [
         {
+          "id": "44a0583b198445eb9b75cac8817c7731",
           "asset": "assets/5bc146ded79b5e4108f8.jpg",
           "caption": ""
         }
       ],
       "createdUtc": "2026-08-11T09:23:52.3797814Z",
-      "modifiedUtc": "2026-08-11T09:31:21.6441932Z"
+      "modifiedUtc": "2026-08-11T12:20:17.1863181Z"
     },
     {
       "id": "7313fe7f97cc4172a48587f849f4cccb",
-      "name": "\u0412 \u043F\u043E\u0434\u0441\u043E\u0431\u043A\u0435 TerraGroup ",
-      "description": "\u0412 \u043F\u043E\u0434\u0441\u043E\u0431\u043A\u0435 TerraGroup \u0437\u0430\u043F\u0435\u0440\u0442\u043E\u0439 \u043D\u0430 \u00AB\u041A\u043B\u044E\u0447-\u043A\u0430\u0440\u0442\u0430 \u043E\u0442 \u0441\u043A\u043B\u0430\u0434\u0430 TerraGroup\u00BB",
+      "name": "Project doc. TG Storage Room",
+      "description": "In an underground storage room behind metal door locked with \u0022TerraGroup storage room keycard\u0022",
       "categoryId": "2370cef0309d4b929616b96deeddcd09",
       "x": 514.8,
       "y": 302.26,
       "scale": 1,
       "photos": [
         {
+          "id": "425b5c40c40d47639ba4c787fe87b7f1",
           "asset": "assets/c28326d20e0ea91f773f.jpg",
           "caption": ""
         }
       ],
       "createdUtc": "2026-08-11T09:42:05.1313067Z",
-      "modifiedUtc": "2026-08-11T09:42:29.8561829Z"
+      "modifiedUtc": "2026-08-11T12:19:20.9383844Z"
     },
     {
       "id": "9f8020a4c95242ecbabe794278281ad4",
-      "name": "\u041F\u0440\u043E\u0435\u043A\u0442 \u043B\u0430\u0431\u0430 1 \u044D\u0442",
-      "description": "1 \u044D\u0442\u0430\u0436 \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u0438\u0438 \u0432 \u0448\u043A\u0430\u0444\u0447\u0438\u043A\u0435",
+      "name": "Project doc. Lab 1st Floor Locker",
+      "description": "Inside of a personal locker on the 1st floor",
       "categoryId": "2370cef0309d4b929616b96deeddcd09",
       "x": 363.56,
       "y": 157.75,
       "scale": 1,
       "photos": [
         {
+          "id": "e2bffd0ae245496db48551401ad93a6c",
           "asset": "assets/249366aaa120b472513e.jpg",
           "caption": ""
         }
       ],
       "createdUtc": "2026-08-11T09:43:18.0112287Z",
-      "modifiedUtc": "2026-08-11T09:43:35.2096852Z"
+      "modifiedUtc": "2026-08-11T12:43:11.9136191Z"
     },
     {
       "id": "8ce01badcce64eaabd88ec6e781628c5",
-      "name": "1 \u044D\u0442\u0430\u0436 \u0432 \u0437\u0430\u043F\u0435\u0440\u0442\u043E\u0439 \u043A\u043E\u043C\u043D\u0430\u0442\u0435 \u043F\u0440\u043E\u0435\u043A\u0442",
-      "description": "\u041D\u0430 1 \u044D\u0442\u0430\u0436\u0435 \u0432 \u0437\u0430\u043F\u0435\u0440\u0442\u043E\u0439 \u043A\u043E\u043C\u043D\u0430\u0442\u0435 \u043E\u0444\u0438\u0441\u043E\u0432 \u0437\u0430\u0432\u043E\u0434\u0430 (\u043F\u043E\u043F\u0430\u0441\u0442\u044C \u043C\u043E\u0436\u043D\u043E \u0447\u0435\u0440\u0435\u0437 \u043E\u043A\u043D\u043E \u0441 \u0443\u043B\u0438\u0446\u044B)",
+      "name": "Project doc. Office 1st Floor locked room",
+      "description": "Locked room on the 1st floor of Factory offices (accessible through window from the outside)",
       "categoryId": "2370cef0309d4b929616b96deeddcd09",
       "x": 127.77,
       "y": 160.07,
       "scale": 1,
       "photos": [
         {
+          "id": "32ab796b031644fc8575f3992e859e73",
           "asset": "assets/4abd55bc9d61111cde35.jpg",
           "caption": ""
         }
       ],
       "createdUtc": "2026-08-11T09:44:10.3431392Z",
-      "modifiedUtc": "2026-08-11T09:44:42.1916906Z"
+      "modifiedUtc": "2026-08-11T12:12:07.8830134Z"
     },
     {
       "id": "f517ab40dfae44da9fba87e5dd303c8d",
-      "name": "3 \u044D\u0442\u0430\u0436 \u043E\u0444\u0438\u0441\u043E\u0432 \u043F\u0440\u043E\u0435\u043A\u0442",
-      "description": "3 \u044D\u0442\u0430\u0436 \u043E\u0444\u0438\u0441\u043E\u0432 \u0437\u0430\u0432\u043E\u0434\u0430 \u0432 \u043A\u043E\u043C\u043D\u0430\u0442\u0435 \u0441 \u0441\u0435\u0439\u0444\u043E\u043C",
+      "name": "Project doc. Offices 3rd Floor Safe Room",
+      "description": "In the room with unlocked safe",
       "categoryId": "2370cef0309d4b929616b96deeddcd09",
       "x": 91.23,
       "y": 686.33,
       "scale": 1,
       "photos": [
         {
+          "id": "a30b02fd65c64b3890c48d5609874b30",
           "asset": "assets/f8b1cf9055a247c0f271.jpg",
           "caption": ""
         }
       ],
       "createdUtc": "2026-08-11T09:44:57.0020457Z",
-      "modifiedUtc": "2026-08-11T10:01:19.571459Z"
+      "modifiedUtc": "2026-08-11T12:54:11.553358Z"
     },
     {
       "id": "e36460a1756e473dae3b47161db5a2ab",
-      "name": "1 \u044D\u0442\u0430\u0436 \u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u0438\u0438 \u043F\u0440\u043E\u0435\u043A\u0442",
-      "description": "1 \u044D\u0442\u0430\u0436 \u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u0438\u0438 \u0432 \u043A\u043E\u0440\u0438\u0434\u043E\u0440\u0435 \u043F\u0440\u043E\u0435\u043A\u0442",
+      "name": "Project doc. Lab 1st Floor",
+      "description": "In the Lab\u0027s first floor corridor",
       "categoryId": "2370cef0309d4b929616b96deeddcd09",
       "x": 360.93,
       "y": 129.86,
       "scale": 1,
       "photos": [
         {
+          "id": "a36d25a2f296417da448f17b2280846c",
           "asset": "assets/84f717addb90ccae5ac0.jpg",
           "caption": ""
         }
       ],
       "createdUtc": "2026-08-11T09:46:00.9269941Z",
-      "modifiedUtc": "2026-08-11T10:00:10.6781669Z"
+      "modifiedUtc": "2026-08-11T12:34:22.7859585Z"
     },
     {
       "id": "1e89904245454a9e862d22461da48315",
-      "name": "\u0413\u0430\u0437\u0430\u043D\u044B",
-      "description": "\u041F\u0440\u0438\u0441\u0442\u0440\u043E\u0439\u043A\u0430 \u0433\u0430\u0437\u0430\u043D\u044B",
+      "name": "Project doc. Storage Room",
+      "description": "Besides the shelves in a brick storage room",
       "categoryId": "2370cef0309d4b929616b96deeddcd09",
       "x": 299.97,
       "y": 123.95,
       "scale": 1,
       "photos": [
         {
+          "id": "7f2959ca5ffe493797c8ed20edc74054",
           "asset": "assets/5af3988ed8428828c2a3.jpg",
           "caption": ""
         }
       ],
       "createdUtc": "2026-08-11T09:49:58.6947253Z",
-      "modifiedUtc": "2026-08-11T09:50:25.0563746Z"
+      "modifiedUtc": "2026-08-11T12:15:40.1225483Z"
     },
     {
       "id": "283a4965c620423b805da6448ef15d98",
-      "name": "\u0422\u043E\u043D\u0435\u043B\u044C \u043F\u0440\u043E\u0435\u043A\u0442",
-      "description": "\u041F\u043E\u0434 \u043E\u0444\u0438\u0441\u0430\u043C\u0438 \u0431\u043B\u0438\u0436\u0435 \u043A \u0432\u044B\u0445\u043E\u0434\u0443 \u0432\u043E\u0440\u043E\u0442\u0430 0",
+      "name": "Project doc. Tunnel",
+      "description": "In a tunnel under the offices, close to Gates 0",
       "categoryId": "2370cef0309d4b929616b96deeddcd09",
       "x": 471.37,
       "y": 245.43,
       "scale": 1,
       "photos": [
         {
+          "id": "1528966afc61444c95882243e9a33c18",
           "asset": "assets/5557063431346572b1a5.jpg",
           "caption": ""
         }
       ],
       "createdUtc": "2026-08-11T09:50:57.855614Z",
-      "modifiedUtc": "2026-08-11T09:51:36.0964092Z"
+      "modifiedUtc": "2026-08-11T12:32:07.7780166Z"
+    }
+  ],
+  "translations": [
+    {
+      "code": "ru",
+      "name": "Russian",
+      "strings": {
+        "map.name": "\u0417\u0430\u0432\u043E\u0434",
+        "category.9f657976ca804475b0780a0c9aa31b5d.name": "\u0424\u0438\u043D\u0430\u043D\u0441\u043E\u0432\u0430\u044F \u0434\u043E\u043A.",
+        "category.2370cef0309d4b929616b96deeddcd09.name": "\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u0430\u044F \u0434\u043E\u043A.",
+        "category.15f56b19debf4ba588781b1cb92f6776.name": "\u0422\u0435\u0445. \u0434\u043E\u043A.",
+        "category.010d49d821a54f49ad6807f3757a74ec.name": "\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u0430\u044F \u0434\u043E\u043A.",
+        "category.a772bad2445446ab848f81a6a43b00f7.name": "\u041C\u0435\u0434\u0438\u0446\u0438\u043D\u0441\u043A\u0430\u044F \u0434\u043E\u043A.",
+        "category.9dd4689209d04ef59dec821154c8b287.name": "\u042D\u043A\u0441\u043F\u043B\u0443\u0430\u0442\u0430\u0446\u0438\u043E\u043D\u043D\u0430\u044F \u0434\u043E\u043A.",
+        "category.33d8088b1398491d9f717cd4565095a9.name": "\u0422\u0435\u0441\u0442\u043E\u0432\u0430\u044F \u0434\u043E\u043A.",
+        "marker.8b0c4d1f540d46d8bd037eb97e98bf50.name": "\u0422\u0435\u0445. \u0434\u043E\u043A. \u041E\u0444\u0438\u0441\u044B 1 \u044D\u0442. \u0417\u0430\u043A\u0440\u044B\u0442\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430",
+        "marker.8b0c4d1f540d46d8bd037eb97e98bf50.description": "\u0417\u0430\u043A\u0440\u044B\u0442\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430 \u043D\u0430 1 \u044D\u0442\u0430\u0436\u0435 \u043E\u0444\u0438\u0441\u043E\u0432 \u0437\u0430\u0432\u043E\u0434\u0430 (\u0437\u0430\u0431\u0440\u0430\u0442\u044C\u0441\u044F \u043C\u043E\u0436\u043D\u043E \u0441 \u0443\u043B\u0438\u0446\u044B \u0447\u0435\u0440\u0435\u0437 \u043E\u043A\u043D\u043E)",
+        "marker.44385b6889ce4684bdb100eb655d7f21.name": "\u041F\u0440\u043E\u0435\u043A\u0442. \u0434\u043E\u043A. \u0412\u0440\u0435\u043C\u044F\u043D\u043A\u0430",
+        "marker.44385b6889ce4684bdb100eb655d7f21.description": "\u0416\u0435\u043B\u0435\u0437\u043D\u0430\u044F \u0431\u0443\u0434\u043A\u0430 \u0440\u044F\u0434\u043E\u043C \u0441 \u0432\u044B\u0445\u043E\u0434\u043E\u043C \u00AB\u0412\u043E\u0440\u043E\u0442\u0430 3\u00BB",
+        "marker.2ccd29c81c3447839fa5d0eabecaa0fa.name": "\u041F\u0440\u043E\u0435\u043A\u0442. \u0434\u043E\u043A. \u0422\u0440\u0430\u043D\u0441\u0444\u043E\u0440\u043C\u0430\u0442\u043E\u0440\u044B",
+        "marker.2ccd29c81c3447839fa5d0eabecaa0fa.description": "\u0412 \u0442\u0440\u0430\u043D\u0441\u0444\u043E\u0440\u043C\u0430\u0442\u043E\u0440\u0430\u0445 \u0440\u044F\u0434\u043E\u043C \u0441 \u043D\u0430\u0434\u043F\u0438\u0441\u044C\u044E \u043D\u0430 \u0441\u0442\u0435\u043D\u0435 \u00AB1986\u00BB",
+        "marker.8ce9d47691dc4e5fbb825ad8c42d50b7.name": "\u041F\u0440\u043E\u0435\u043A\u0442. \u0434\u043E\u043A. \u041E\u0444\u0438\u0441\u044B 3 \u044D\u0442. \u0412\u044B\u0431\u0438\u0442\u0430\u044F \u0434\u0432\u0435\u0440\u044C",
+        "marker.8ce9d47691dc4e5fbb825ad8c42d50b7.description": "\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0435 \u0434\u043E\u043A\u0438 \u0437\u0430 \u0437\u0430\u0431\u0438\u0442\u043E\u0439 \u0434\u0432\u0435\u0440\u044C\u044E \u043D\u0430 \u043F\u043E\u043B\u0443",
+        "marker.26ad84ba68e9474e9e2255249846c19f.name": "\u041F\u0440\u043E\u0435\u043A\u0442. \u0434\u043E\u043A. \u041E\u0444\u0438\u0441\u044B 3 \u044D\u0442. \u0417\u0430\u043A\u0440\u044B\u0442\u0430\u044F \u0434\u0432\u0435\u0440\u044C",
+        "marker.26ad84ba68e9474e9e2255249846c19f.description": "\u0412 \u0442\u0443\u043C\u0431\u043E\u0447\u043A\u0435 \u0441\u0440\u0430\u0437\u0443 \u0441\u043B\u0435\u0432\u0430 \u043E\u0442 \u0432\u0445\u043E\u0434\u0430 \u0437\u0430 \u0434\u0432\u0435\u0440\u044C\u044E, \u0437\u0430\u043A\u0440\u044B\u0442\u043E\u0439 \u043D\u0430 \u0022\u041A\u043B\u044E\u0447 \u043E\u0442 \u0437\u0430\u0432\u043E\u0434\u0430\u0022",
+        "marker.253532a46b0b4a66a03138b528f1d943.name": "\u0422\u0435\u0445. \u0434\u043E\u043A. \u041E\u0444\u0438\u0441\u044B 3 \u044D\u0442. \u041A\u043E\u043C\u043D\u0430\u0442\u0430 \u0441 \u0441\u0435\u0439\u0444\u043E\u043C",
+        "marker.253532a46b0b4a66a03138b528f1d943.description": "3 \u044D\u0442\u0430\u0436 \u043E\u0444\u0438\u0441 \u0432 \u0432\u044B\u0434\u0432\u0438\u0436\u043D\u043E\u043C \u044F\u0449\u0438\u043A\u0435 \u0441\u0442\u043E\u043B\u0430",
+        "marker.bc4bae3a536e405683776c0512a613b7.name": "\u041F\u0440\u043E\u0435\u043A\u0442. \u0434\u043E\u043A. \u041E\u0444\u0438\u0441\u044B 3 \u044D\u0442. \u041A\u043E\u043C\u043D\u0430\u0442\u0430 \u0441 \u0441\u0435\u0439\u0444\u043E\u043C",
+        "marker.bc4bae3a536e405683776c0512a613b7.description": "\u041E\u0444\u0438\u0441 \u043F\u0440\u043E\u0435\u043A\u0442 \u043D\u0430 \u0432\u044B\u0434\u0432\u0438\u0436\u043D\u044B\u0445 3 \u044D\u0442",
+        "marker.1b33cf413d32421ebd586548609946bd.name": "\u041F\u0440\u043E\u0435\u043A\u0442. \u0434\u043E\u043A. \u041E\u0444\u0438\u0441\u044B 3 \u044D\u0442. \u041A\u043E\u043C\u043D\u0430\u0442\u0430 \u0441 \u0441\u0435\u0439\u0444\u043E\u043C",
+        "marker.1b33cf413d32421ebd586548609946bd.description": "3 \u044D\u0442\u0430\u0436 \u043E\u0444\u0438\u0441\u043E\u0432 \u0432\u043E\u0437\u043B\u0435 \u0441\u0442\u043E\u043B\u0430 \u0441 \u0440\u0430\u0431\u043E\u0447\u0438\u043C \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043E\u043C",
+        "marker.e5255c3e24e74ddb884641fa341c0af7.name": "\u041F\u0440\u043E\u0435\u043A\u0442. \u0434\u043E\u043A. \u041E\u0444\u0438\u0441\u044B 3 \u044D\u0442. \u041A\u0430\u0440\u0442\u043E\u0442\u0435\u043A\u0438",
+        "marker.e5255c3e24e74ddb884641fa341c0af7.description": "3 \u044D\u0442\u0430\u0436 \u043E\u0444\u0438\u0441\u043E\u0432 \u0437\u0430\u0432\u043E\u0434\u0430 \u0432 \u043E\u0442\u043A\u0440\u044B\u0442\u043E\u0439 \u043A\u0430\u0440\u0442\u043E\u0442\u0435\u043A\u0435 \u0432 \u043A\u043E\u0440\u0438\u0434\u043E\u0440\u0435",
+        "marker.fe75a146e80f416d8a3bec0797cb9393.name": "\u0422\u0435\u0445. \u0434\u043E\u043A. \u041B\u0430\u0431. 3 \u044D\u0442.",
+        "marker.fe75a146e80f416d8a3bec0797cb9393.description": "\u041B\u0430\u0431\u0430 \u0442\u0440\u0435\u0442\u0438\u0439 \u044D\u0442\u0430\u0436 \u0432 \u0441\u0442\u043E\u043B\u0435",
+        "marker.483b8816f86c403da0943856fc1e90cd.name": "\u041F\u0440\u043E\u0435\u043A\u0442. \u0434\u043E\u043A. \u041B\u0430\u0431. 3 \u044D\u0442.",
+        "marker.483b8816f86c403da0943856fc1e90cd.description": "\u0412 \u0441\u0442\u044B\u043A\u0435 \u043C\u0435\u0436\u0434\u0443 \u0448\u043A\u0430\u0444\u043E\u043C \u0438 \u0442\u0443\u043C\u0431\u043E\u0439",
+        "marker.be3317af357947b9a6527dd34e33a050.name": "\u0422\u0435\u0445. \u0434\u043E\u043A. \u041B\u0430\u0431. 1 \u044D\u0442. \u0421\u0442\u043E\u043B\u043E\u0432\u0430\u044F",
+        "marker.be3317af357947b9a6527dd34e33a050.description": "1 \u044D\u0442\u0430\u0436 \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u0438\u0438 \u0441\u0442\u043E\u043B\u043E\u0432\u043A\u0430",
+        "marker.65d5647cf2164eb9add7ddc6ac479ebb.name": "\u0422\u0435\u0445. \u0434\u043E\u043A. \u041B\u0430\u0431. 1 \u044D\u0442. \u041B\u0430\u0432\u043A\u0430",
+        "marker.65d5647cf2164eb9add7ddc6ac479ebb.description": "\u041F\u0435\u0440\u0432\u044B\u0439 \u044D\u0442\u0430\u0436 \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 \u043B\u0430\u0432\u043E\u0447\u043A\u0435",
+        "marker.edb840492f8642fb95f74912f19eb601.name": "\u0422\u0435\u0445. \u0434\u043E\u043A. \u041B\u0430\u0431. 1 \u044D\u0442.",
+        "marker.edb840492f8642fb95f74912f19eb601.description": "\u041E\u0444\u0438\u0441 \u043F\u0435\u0440\u0432\u044B\u0439 \u044D\u0442\u0430\u0436 \u0432 \u0432\u044B\u0434\u0432\u0438\u0436\u043D\u043E\u043C \u044F\u0449\u0438\u043A\u0435 \u0443 \u0441\u0435\u0439\u0444\u0430",
+        "marker.59c251b259ac4804905d6b410271aaf5.name": "\u0422\u0435\u0445. \u0434\u043E\u043A. \u041E\u0444\u0438\u0441\u044B 3 \u044D\u0442. \u0417\u0430\u043A\u0440\u044B\u0442\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430",
+        "marker.59c251b259ac4804905d6b410271aaf5.description": "3 \u044D\u0442\u0430\u0436 \u043E\u0444\u0438\u0441\u043E\u0432 \u0437\u0430\u0432\u043E\u0434\u0430 (\u043A\u043E\u043C\u043D\u0430\u0442\u0430 \u0437\u0430\u043F\u0435\u0440\u0442\u0430\u044F \u043D\u0430 \u00AB\u041A\u043B\u044E\u0447 \u043E\u0442 \u0417\u0430\u0432\u043E\u0434\u0430\u00BB)",
+        "marker.5277d9dc07d94416a1247f508638b34c.name": "\u0422\u0435\u0445. \u0434\u043E\u043A. \u0412\u0440\u0435\u043C\u044F\u043D\u043A\u0430",
+        "marker.5277d9dc07d94416a1247f508638b34c.description": "\u0416\u0435\u043B\u0435\u0437\u043D\u0430\u044F \u0432\u0440\u0435\u043C\u044F\u043D\u043A\u0430 \u0440\u044F\u0434\u043E\u043C \u0441 \u00AB\u0412\u044B\u0445\u043E\u0434\u043E\u043C 3\u00BB",
+        "marker.082a97e31e3545fb8a466d7eb1b8da1e.name": "\u0422\u0435\u0445. \u0434\u043E\u043A. \u041C\u0435\u0434. \u043F\u0430\u043B\u0430\u0442\u043A\u0430",
+        "marker.082a97e31e3545fb8a466d7eb1b8da1e.description": "\u0412 \u043C\u0435\u0434. \u043F\u0430\u043B\u0430\u0442\u043A\u0435 \u0440\u044F\u0434\u043E\u043C \u0441 \u0432\u044B\u0445\u043E\u0434\u043E\u043C \u00AB\u0412\u043E\u0440\u043E\u0442\u0430 \u0443 \u043C\u0435\u0434\u0438\u0446\u0438\u043D\u0441\u043A\u043E\u0439 \u043F\u0430\u043B\u0430\u0442\u043A\u0438\u00BB",
+        "marker.0623f21c595e45689631d895b1922dfb.name": "\u0422\u0435\u0445. \u0434\u043E\u043A. \u041A\u0432\u0430\u0434\u0440\u0430\u0442",
+        "marker.0623f21c595e45689631d895b1922dfb.description": "\u041F\u043E\u0434 \u0436\u0435\u043B\u0435\u0437\u043D\u043E\u0439 \u043B\u0435\u0441\u0442\u043D\u0438\u0446\u0435\u0439 \u0432 \u043A\u0432\u0430\u0434\u0440\u0430\u0442\u0435 \u0440\u044F\u0434\u043E\u043C \u0441 \u043E\u0444\u0438\u0441\u0430\u043C\u0438 \u0437\u0430\u0432\u043E\u0434\u0430",
+        "marker.aab05735ee4140a7a2214f2b218b3141.name": "\u0422\u0435\u0445. \u0434\u043E\u043A. \u0421\u0435\u043A\u0440\u0435\u0442\u043D\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430",
+        "marker.aab05735ee4140a7a2214f2b218b3141.description": "\u0417\u0430 \u0432\u043E\u0440\u043E\u0442\u0430\u043C\u0438 \u21162 \u0432 \u043F\u043E\u043C\u0435\u0449\u0435\u043D\u0438\u0438 \u0441 \u0432\u044B\u0445\u043E\u0434\u043E\u043C \u043D\u0430 \u0443\u043B\u0438\u0446\u0443",
+        "marker.20850e22af0a45e9b7bf2d5f8ce5faa3.name": "\u0422\u0435\u0445. \u0434\u043E\u043A. \u0422\u0440\u0443\u043F \u0432 \u0442\u0443\u043D\u043D\u0435\u043B\u0435",
+        "marker.20850e22af0a45e9b7bf2d5f8ce5faa3.description": "\u0412 \u043F\u043E\u0434\u0432\u0430\u043B\u0430\u0445 \u043D\u0435\u0434\u0430\u043B\u0435\u043A\u043E \u043E\u0442 \u043C\u0435\u0434. \u043F\u0430\u043B\u0430\u0442\u043A\u0438 \u0432 \u043D\u043E\u0433\u0430\u0445 \u043C\u0435\u0440\u0442\u0432\u043E\u0433\u043E \u0427\u0412\u041A",
+        "marker.7313fe7f97cc4172a48587f849f4cccb.name": "\u0422\u0435\u0445. \u0434\u043E\u043A. \u041F\u043E\u0434\u0441\u043E\u0431\u043A\u0430 TG",
+        "marker.7313fe7f97cc4172a48587f849f4cccb.description": "\u0412 \u043F\u043E\u0434\u0441\u043E\u0431\u043A\u0435 TerraGroup \u0437\u0430\u043F\u0435\u0440\u0442\u043E\u0439 \u043D\u0430 \u00AB\u041A\u043B\u044E\u0447-\u043A\u0430\u0440\u0442\u0430 \u043E\u0442 \u0441\u043A\u043B\u0430\u0434\u0430 TerraGroup\u00BB",
+        "marker.9f8020a4c95242ecbabe794278281ad4.name": "\u041F\u0440\u043E\u0435\u043A\u0442. \u0434\u043E\u043A. \u041B\u0430\u0431. 1 \u044D\u0442. \u0428\u043A\u0430\u0444\u0447\u0438\u043A",
+        "marker.9f8020a4c95242ecbabe794278281ad4.description": "1 \u044D\u0442\u0430\u0436 \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u0438\u0438 \u0432 \u0448\u043A\u0430\u0444\u0447\u0438\u043A\u0435",
+        "marker.8ce01badcce64eaabd88ec6e781628c5.name": "\u041F\u0440\u043E\u0435\u043A\u0442 \u0434\u043E\u043A. \u041E\u0444\u0438\u0441\u044B 1 \u044D\u0442. \u0417\u0430\u043A\u0440\u044B\u0442\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430",
+        "marker.8ce01badcce64eaabd88ec6e781628c5.description": "\u041D\u0430 1 \u044D\u0442\u0430\u0436\u0435 \u0432 \u0437\u0430\u043F\u0435\u0440\u0442\u043E\u0439 \u043A\u043E\u043C\u043D\u0430\u0442\u0435 \u043E\u0444\u0438\u0441\u043E\u0432 \u0437\u0430\u0432\u043E\u0434\u0430 (\u043F\u043E\u043F\u0430\u0441\u0442\u044C \u043C\u043E\u0436\u043D\u043E \u0447\u0435\u0440\u0435\u0437 \u043E\u043A\u043D\u043E \u0441 \u0443\u043B\u0438\u0446\u044B)",
+        "marker.f517ab40dfae44da9fba87e5dd303c8d.name": "\u041F\u0440\u043E\u0435\u043A\u0442 \u0434\u043E\u043A. \u041E\u0444\u0438\u0441\u044B 3 \u044D\u0442. \u041A\u043E\u043C\u043D\u0430\u0442\u0430 \u0441 \u0441\u0435\u0439\u0444\u043E\u043C",
+        "marker.f517ab40dfae44da9fba87e5dd303c8d.description": "3 \u044D\u0442\u0430\u0436 \u043E\u0444\u0438\u0441\u043E\u0432 \u0437\u0430\u0432\u043E\u0434\u0430 \u0432 \u043A\u043E\u043C\u043D\u0430\u0442\u0435 \u0441 \u0441\u0435\u0439\u0444\u043E\u043C",
+        "marker.e36460a1756e473dae3b47161db5a2ab.name": "\u041F\u0440\u043E\u0435\u043A\u0442. \u0434\u043E\u043A. \u041B\u0430\u0431. 1 \u044D\u0442.",
+        "marker.e36460a1756e473dae3b47161db5a2ab.description": "1 \u044D\u0442\u0430\u0436 \u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u0438\u0438 \u0432 \u043A\u043E\u0440\u0438\u0434\u043E\u0440\u0435 \u043F\u0440\u043E\u0435\u043A\u0442",
+        "marker.1e89904245454a9e862d22461da48315.name": "\u041F\u0440\u043E\u0435\u043A\u0442. \u0434\u043E\u043A. \u0413\u0430\u0437\u0430\u043D\u044B",
+        "marker.1e89904245454a9e862d22461da48315.description": "\u041F\u0440\u0438\u0441\u0442\u0440\u043E\u0439\u043A\u0430 \u0433\u0430\u0437\u0430\u043D\u044B",
+        "marker.283a4965c620423b805da6448ef15d98.name": "\u041F\u0440\u043E\u0435\u043A\u0442. \u0434\u043E\u043A. \u0422\u0443\u043D\u043D\u0435\u043B\u044C",
+        "marker.283a4965c620423b805da6448ef15d98.description": "\u041F\u043E\u0434 \u043E\u0444\u0438\u0441\u0430\u043C\u0438 \u0431\u043B\u0438\u0436\u0435 \u043A \u0432\u044B\u0445\u043E\u0434\u0443 \u0022\u0412\u043E\u0440\u043E\u0442\u0430 0\u0022"
+      }
     }
   ],
   "sync": {
@@ -538,9 +634,9 @@
     "repo": "Tarkov_Maps",
     "branch": "main",
     "folderPath": "maps/Factory",
-    "lastCommitSha": "12da6a859142a7fe9f4d5406709633853dbd6df6",
-    "lastFolderSha": "d6be5971376cdf53a6ff9918688f9c53d2ec8654",
-    "lastSyncUtc": "2026-08-11T09:56:24.5375689Z"
+    "lastCommitSha": "24726c9a95f12f92a105e9364f683c6de069458d",
+    "lastFolderSha": "af60bcf73e018b293877a7c39dd61b6414a445d9",
+    "lastSyncUtc": "2026-08-11T11:48:36.2645094Z"
   },
-  "modifiedUtc": "2026-08-11T10:01:29.1957451Z"
+  "modifiedUtc": "2026-08-11T12:54:53.1130508Z"
 }
