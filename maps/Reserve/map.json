@@ -87,22 +87,259 @@
       "sortOrder": 7
     }
   ],
-  "markers": [],
-  "translations": [
+  "markers": [
     {
-      "code": "ru",
-      "name": "Russian",
-      "strings": {
-        "map.name": "\u0420\u0435\u0437\u0435\u0440\u0432",
-        "category.9f657976ca804475b0780a0c9aa31b5d.name": "\u0424\u0438\u043D\u0430\u043D\u0441\u043E\u0432\u0430\u044F \u0434\u043E\u043A.",
-        "category.2370cef0309d4b929616b96deeddcd09.name": "\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u0430\u044F \u0434\u043E\u043A.",
-        "category.15f56b19debf4ba588781b1cb92f6776.name": "\u0422\u0435\u0445. \u0434\u043E\u043A.",
-        "category.010d49d821a54f49ad6807f3757a74ec.name": "\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u0430\u044F \u0434\u043E\u043A.",
-        "category.a772bad2445446ab848f81a6a43b00f7.name": "\u041C\u0435\u0434\u0438\u0446\u0438\u043D\u0441\u043A\u0430\u044F \u0434\u043E\u043A.",
-        "category.9dd4689209d04ef59dec821154c8b287.name": "\u042D\u043A\u0441\u043F\u043B\u0443\u0430\u0442\u0430\u0446\u0438\u043E\u043D\u043D\u0430\u044F \u0434\u043E\u043A.",
-        "category.33d8088b1398491d9f717cd4565095a9.name": "\u0422\u0435\u0441\u0442\u043E\u0432\u0430\u044F \u0434\u043E\u043A.",
-        "category.7b8ab6f339034d2dac053772ecfcd28c.name": "\u041B\u0438\u0447\u043D\u044B\u0435 \u0434\u0435\u043B\u0430 \u0427\u0412\u041A"
-      }
+      "id": "56a5b1c06b2546c4a89bdc5807106a1f",
+      "name": "PMC Doc Black pawn 3F",
+      "description": "Look Black pawn 3F",
+      "categoryId": "7b8ab6f339034d2dac053772ecfcd28c",
+      "x": 2585.816592115509,
+      "y": 1379.4824601881971,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/256637bbc2991dde658e.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T12:32:43.2675855Z",
+      "modifiedUtc": "2026-08-11T12:52:59.9679251Z"
+    },
+    {
+      "id": "eed1a2b1f03943e3aedae51f71f36055",
+      "name": "PMC Doc Black pawn 3F",
+      "description": "RB-OB key",
+      "categoryId": "7b8ab6f339034d2dac053772ecfcd28c",
+      "x": 4253.98,
+      "y": 1808.73,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/256637bbc2991dde658e.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T12:33:48.5816526Z",
+      "modifiedUtc": "2026-08-11T12:34:42.5295064Z"
+    },
+    {
+      "id": "81a6db77a90446f6bcaf958a41387138",
+      "name": "PMC Doc Queen 2F",
+      "description": "Look Queen 2F",
+      "categoryId": "7b8ab6f339034d2dac053772ecfcd28c",
+      "x": 1988.53,
+      "y": 2306.9,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/0323ca5051166d1c14f3.jpg",
+          "caption": ""
+        },
+        {
+          "asset": "assets/4402471b0e7414678da4.webp",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T12:36:46.7572165Z",
+      "modifiedUtc": "2026-08-11T12:43:31.7026364Z"
+    },
+    {
+      "id": "297208c2957943d3993c4109160599c5",
+      "name": "PMC Doc Queen 2F",
+      "description": "RB-KORL key",
+      "categoryId": "7b8ab6f339034d2dac053772ecfcd28c",
+      "x": 3263.4734761271793,
+      "y": 2154.016774869742,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/4402471b0e7414678da4.webp",
+          "caption": ""
+        },
+        {
+          "asset": "assets/0323ca5051166d1c14f3.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T12:37:37.0211916Z",
+      "modifiedUtc": "2026-08-11T12:49:40.4740976Z"
+    },
+    {
+      "id": "8c686eb672884b0d96e1b76a0ce25ffb",
+      "name": "PMC Doc Black Knight 3F",
+      "description": "No key needed",
+      "categoryId": "7b8ab6f339034d2dac053772ecfcd28c",
+      "x": 1595.4542371415341,
+      "y": 1310.4870820367883,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/c3b7b9a19fef38f05cf4.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T12:38:58.2231198Z",
+      "modifiedUtc": "2026-08-11T12:40:00.1507787Z"
+    },
+    {
+      "id": "6656a4e108654b9d9aef28e5499ff7eb",
+      "name": "PMC Doc Black Knight 3F",
+      "description": "No key needed",
+      "categoryId": "7b8ab6f339034d2dac053772ecfcd28c",
+      "x": 394.4586657192424,
+      "y": 2513.5663896907126,
+      "scale": 1,
+      "photos": [],
+      "createdUtc": "2026-08-11T12:40:09.8369872Z",
+      "modifiedUtc": "2026-08-11T12:40:23.5547316Z"
+    },
+    {
+      "id": "b61428582a6547f4953b42616ce365ec",
+      "name": "PMC Doc Queen 2F",
+      "description": "RB-RLSA key",
+      "categoryId": "7b8ab6f339034d2dac053772ecfcd28c",
+      "x": 3313.937607095385,
+      "y": 2171.9721173702583,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/e2c641ff79d229fc93a0.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T12:41:49.9257627Z",
+      "modifiedUtc": "2026-08-11T12:49:51.464049Z"
+    },
+    {
+      "id": "10355a63e9a745d0b09355e6ab8430ef",
+      "name": "PMC Doc Queen 2F",
+      "description": "Look Queen 2F",
+      "categoryId": "7b8ab6f339034d2dac053772ecfcd28c",
+      "x": 2024.89,
+      "y": 2238.65,
+      "scale": 1,
+      "photos": [],
+      "createdUtc": "2026-08-11T12:42:48.5806946Z",
+      "modifiedUtc": "2026-08-11T12:43:17.7857422Z"
+    },
+    {
+      "id": "da2d05e945474e8ca7e190a0937daa1e",
+      "name": "PMC Doc Checkpoint 1F",
+      "description": "Near scav checkpoint extract",
+      "categoryId": "7b8ab6f339034d2dac053772ecfcd28c",
+      "x": 1579.97,
+      "y": 2008.48,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/f3570a851cddd3c557cc.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T12:44:14.2155703Z",
+      "modifiedUtc": "2026-08-11T12:51:42.5570366Z"
+    },
+    {
+      "id": "a3363b072f85409b9f4301a619d65f01",
+      "name": "Project Doc bunker",
+      "description": "Main office in the bunker. Behind on the screenshot is the glass and marked room",
+      "categoryId": "2370cef0309d4b929616b96deeddcd09",
+      "x": 4317.15,
+      "y": 551.76,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/c84692e9bd4e29639c9e.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T12:45:57.8404026Z",
+      "modifiedUtc": "2026-08-11T12:47:17.4689026Z"
+    },
+    {
+      "id": "bd80ae52a034464aa300b83b343f2146",
+      "name": "Project Doc bunker",
+      "description": "Smaller office next to the central one",
+      "categoryId": "2370cef0309d4b929616b96deeddcd09",
+      "x": 4261.36,
+      "y": 531.01,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/6e13728e756096c1d995.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T12:47:37.4233605Z",
+      "modifiedUtc": "2026-08-11T12:48:34.8979741Z"
+    },
+    {
+      "id": "97b9f4ff767f4d08882fc06d9f3409eb",
+      "name": "Project Doc Queen 2F",
+      "description": "RB-RLSA key",
+      "categoryId": "2370cef0309d4b929616b96deeddcd09",
+      "x": 3310.37,
+      "y": 2149.13,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/6a07a4331991f2b83fa1.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T12:49:52.7881048Z",
+      "modifiedUtc": "2026-08-11T12:50:27.4424248Z"
+    },
+    {
+      "id": "27b311d97ff340eeb745323015e8fc81",
+      "name": "Project Doc Checkpoint 1F",
+      "description": "Near scav checkpoint extract",
+      "categoryId": "2370cef0309d4b929616b96deeddcd09",
+      "x": 1597.04,
+      "y": 2021.48,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/a1fd83b8ff48a2e1887b.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T12:50:54.0280522Z",
+      "modifiedUtc": "2026-08-11T12:54:48.6367903Z"
+    },
+    {
+      "id": "a3c89bcd1d594d9dbcf51c3127f73cf1",
+      "name": "Project Doc Black pawn 4F",
+      "description": "Gun storage room",
+      "categoryId": "2370cef0309d4b929616b96deeddcd09",
+      "x": 4379.33,
+      "y": 1788.65,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/62d72463c80cf43f7553.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T12:52:19.5159486Z",
+      "modifiedUtc": "2026-08-11T12:52:49.5497976Z"
+    },
+    {
+      "id": "ead8bbbd394a48f1b16a273497e58c87",
+      "name": "Project Doc Black pawn 4F",
+      "description": "Look Black pawn 4F",
+      "categoryId": "2370cef0309d4b929616b96deeddcd09",
+      "x": 2581.76,
+      "y": 1355.93,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/62d72463c80cf43f7553.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T12:53:00.7409169Z",
+      "modifiedUtc": "2026-08-11T12:53:29.7857533Z"
     }
   ],
   "sync": {
@@ -110,9 +347,9 @@
     "repo": "Tarkov_Maps",
     "branch": "main",
     "folderPath": "maps/Reserve",
-    "lastCommitSha": "a6ac5d7b737e8e3ae96a0d2ec82deb1ec24512af",
-    "lastFolderSha": "f5da1468370351a10b4e6942c6b91cbd29bcb86a",
-    "lastSyncUtc": "2026-08-11T09:22:52.8631053Z"
+    "lastCommitSha": "4a1695ce49cb6fb847c899e1a9da0abf662c8312",
+    "lastFolderSha": "cb0a7fe2d672d9b5ed372ae93108dc057ed3f7aa",
+    "lastSyncUtc": "2026-08-11T12:31:55.5792859Z"
   },
-  "modifiedUtc": "2026-08-11T11:32:56.1634652Z"
+  "modifiedUtc": "2026-08-11T12:55:09.6220677Z"
 }
