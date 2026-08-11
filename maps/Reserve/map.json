@@ -167,7 +167,7 @@
     {
       "id": "8c686eb672884b0d96e1b76a0ce25ffb",
       "name": "PMC Doc Black Knight 3F",
-      "description": "No key needed",
+      "description": "PC room look Black Knight 3F on the map",
       "categoryId": "7b8ab6f339034d2dac053772ecfcd28c",
       "x": 1595.4542371415341,
       "y": 1310.4870820367883,
@@ -179,7 +179,7 @@
         }
       ],
       "createdUtc": "2026-08-11T12:38:58.2231198Z",
-      "modifiedUtc": "2026-08-11T12:40:00.1507787Z"
+      "modifiedUtc": "2026-08-11T13:59:09.1554824Z"
     },
     {
       "id": "6656a4e108654b9d9aef28e5499ff7eb",
@@ -340,6 +340,40 @@
       ],
       "createdUtc": "2026-08-11T12:53:00.7409169Z",
       "modifiedUtc": "2026-08-11T12:53:29.7857533Z"
+    },
+    {
+      "id": "413e23e857c740c89f539ca13160f489",
+      "name": "Project Doc Black Knight 3F",
+      "description": "PC room look Black Knight 3F",
+      "categoryId": "2370cef0309d4b929616b96deeddcd09",
+      "x": 1603,
+      "y": 1317.78,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/eff095b8ecb961aa2d0a.png",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T13:56:13.7918904Z",
+      "modifiedUtc": "2026-08-11T13:59:34.5884559Z"
+    },
+    {
+      "id": "8ed67c2ea2004b32a6013129e69b9e62",
+      "name": "Project Doc Black Knight 3F",
+      "description": "No key needed",
+      "categoryId": "2370cef0309d4b929616b96deeddcd09",
+      "x": 400.23,
+      "y": 2531.71,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/eff095b8ecb961aa2d0a.png",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T13:57:47.2786393Z",
+      "modifiedUtc": "2026-08-11T13:58:35.4980113Z"
     }
   ],
   "sync": {
@@ -347,9 +381,9 @@
     "repo": "Tarkov_Maps",
     "branch": "main",
     "folderPath": "maps/Reserve",
-    "lastCommitSha": "3844603cbe101129a1277c70964d4323b78b08e6",
-    "lastFolderSha": "889ee8d98a7c9999e7f4013700d273a47eec7e01",
-    "lastSyncUtc": "2026-08-11T12:57:14.6215269Z"
+    "lastCommitSha": "ce78d82c46c15b4e628f73a8db9cc0d9ec16deaf",
+    "lastFolderSha": "6ae49124858aecf361464fa1c438910fb501ef1e",
+    "lastSyncUtc": "2026-08-11T13:53:37.991837Z"
   },
-  "modifiedUtc": "2026-08-11T13:22:21.8047402Z"
+  "modifiedUtc": "2026-08-11T13:59:56.0714542Z"
 }
