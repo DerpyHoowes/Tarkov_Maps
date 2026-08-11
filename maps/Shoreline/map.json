@@ -134,8 +134,8 @@
       "name": "\u042D\u043A\u0441\u043F. \u0434\u043E\u043A\u0438, \u0431\u0430\u0437\u0430 \u043A\u043E\u043D\u0442\u0440\u0430\u0431.",
       "description": "\u0411\u0430\u0437\u0430 \u043A\u043E\u043D\u0442\u0440\u0430\u0431\u0430\u043D\u0434\u0438\u0441\u0442\u043E\u0432, \u0434\u043E\u043A\u0438 \u043D\u0430 \u0441\u0442\u043E\u043B\u0435 \u043C\u044F\u0443",
       "categoryId": "9dd4689209d04ef59dec821154c8b287",
-      "x": 3882,
-      "y": 1935.43,
+      "x": 3920.7999646790036,
+      "y": 1727.8501889673298,
       "scale": 1,
       "photos": [
         {
@@ -144,7 +144,7 @@
         }
       ],
       "createdUtc": "2026-08-11T11:13:44.0989327Z",
-      "modifiedUtc": "2026-08-11T11:14:59.8037272Z"
+      "modifiedUtc": "2026-08-11T11:55:55.2164425Z"
     },
     {
       "id": "8089e2a440b64206acbe1e64b480b1ba",
@@ -263,9 +263,14 @@
       "x": 4211.12,
       "y": 2838.53,
       "scale": 1,
-      "photos": [],
+      "photos": [
+        {
+          "asset": "assets/0af6de480590395c021d.png",
+          "caption": ""
+        }
+      ],
       "createdUtc": "2026-08-11T11:22:21.4701776Z",
-      "modifiedUtc": "2026-08-11T11:22:55.308195Z"
+      "modifiedUtc": "2026-08-11T11:56:29.4882363Z"
     }
   ],
   "sync": {
@@ -273,9 +278,9 @@
     "repo": "Tarkov_Maps",
     "branch": "main",
     "folderPath": "maps/Shoreline",
-    "lastCommitSha": "eb3d2dc196037144a6b26b19a06c75f8ea2f66f1",
-    "lastFolderSha": "f90c0a02bdf99e830fb02a890d28d72873f69abd",
-    "lastSyncUtc": "2026-08-11T11:24:11.2619466Z"
+    "lastCommitSha": "2b5b1cddf251a9364f9120e239f79a5b5ff3e2f2",
+    "lastFolderSha": "f777385d59dc2bb2ce3751907590109896d6428c",
+    "lastSyncUtc": "2026-08-11T11:25:03.6920846Z"
   },
-  "modifiedUtc": "2026-08-11T11:24:59.9808691Z"
+  "modifiedUtc": "2026-08-11T11:56:46.8465349Z"
 }
