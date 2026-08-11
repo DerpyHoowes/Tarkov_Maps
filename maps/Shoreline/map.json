@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 3,
   "id": "879b21e812ef4e60bfa4b0858b83fe82",
   "name": "\u0411\u0435\u0440\u0435\u0433",
   "baseImage": "assets/e6817f716d96b262b6fc.webp",
@@ -88,6 +88,7 @@
       "scale": 1,
       "photos": [
         {
+          "id": "ccbc7d962cb8465d974b4ca54b9fdf58",
           "asset": "assets/fd271d4f48bbea813c85.jpg",
           "caption": ""
         }
@@ -105,6 +106,7 @@
       "scale": 1,
       "photos": [
         {
+          "id": "3f4af7f168b54fda9449b124df38b44c",
           "asset": "assets/0d40fb6768ce8018cefc.jpg",
           "caption": ""
         }
@@ -122,6 +124,7 @@
       "scale": 1,
       "photos": [
         {
+          "id": "9ce4fe487171405d9cecfd7e8fe42789",
           "asset": "assets/190c6018fe33a3b96e39.jpg",
           "caption": ""
         }
@@ -139,6 +142,7 @@
       "scale": 1,
       "photos": [
         {
+          "id": "1e9a701fd7064a1989a93fa1fcde2172",
           "asset": "assets/a42444417eb3ea610c04.jpg",
           "caption": ""
         }
@@ -168,6 +172,7 @@
       "scale": 1,
       "photos": [
         {
+          "id": "64f4571963304fb6981a092c88803fb1",
           "asset": "assets/a4d3173a25691a265610.jpg",
           "caption": ""
         }
@@ -185,6 +190,7 @@
       "scale": 1,
       "photos": [
         {
+          "id": "91a64d622d7b4d8bbdf317764d561a4e",
           "asset": "assets/235571761be0ebd0c044.jpg",
           "caption": ""
         }
@@ -214,6 +220,7 @@
       "scale": 1,
       "photos": [
         {
+          "id": "7529f67c276940f28f3056c287a4730e",
           "asset": "assets/0bb21525b2aaf41a149d.jpg",
           "caption": ""
         }
@@ -231,6 +238,7 @@
       "scale": 1,
       "photos": [
         {
+          "id": "0431a183992f4ae49e4d47c3b56e2fa0",
           "asset": "assets/b2ca0033a0bba818d940.jpg",
           "caption": ""
         }
@@ -248,6 +256,7 @@
       "scale": 1,
       "photos": [
         {
+          "id": "32cccc7b5f7f46ddbcab43d506d4dc6d",
           "asset": "assets/f737e59797179cace6dd.jpg",
           "caption": ""
         }
@@ -265,22 +274,42 @@
       "scale": 1,
       "photos": [
         {
+          "id": "45562a37ac534aa9be10dbf08db63ba2",
           "asset": "assets/0af6de480590395c021d.png",
           "caption": ""
         }
       ],
       "createdUtc": "2026-08-11T11:22:21.4701776Z",
       "modifiedUtc": "2026-08-11T11:56:29.4882363Z"
+    },
+    {
+      "id": "2957b43cf4f0463aa01ef732f40a4b47",
+      "name": "Test Doc contraband base",
+      "description": "on the seat",
+      "categoryId": "33d8088b1398491d9f717cd4565095a9",
+      "x": 3860.07,
+      "y": 1906.96,
+      "scale": 1,
+      "photos": [
+        {
+          "id": "611fd94c8ab049f589e2733b9189756a",
+          "asset": "assets/5a8e9b102db87c11f36d.png",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T14:47:22.3139787Z",
+      "modifiedUtc": "2026-08-11T14:48:20.1398689Z"
     }
   ],
+  "translations": [],
   "sync": {
     "owner": "DerpyHoowes",
     "repo": "Tarkov_Maps",
     "branch": "main",
     "folderPath": "maps/Shoreline",
-    "lastCommitSha": "2b5b1cddf251a9364f9120e239f79a5b5ff3e2f2",
-    "lastFolderSha": "f777385d59dc2bb2ce3751907590109896d6428c",
-    "lastSyncUtc": "2026-08-11T11:25:03.6920846Z"
+    "lastCommitSha": "4a1695ce49cb6fb847c899e1a9da0abf662c8312",
+    "lastFolderSha": "f1f98b73011249a28bb1d54d1a884b0b61d9cb71",
+    "lastSyncUtc": "2026-08-11T11:56:51.9378908Z"
   },
-  "modifiedUtc": "2026-08-11T11:56:46.8465349Z"
+  "modifiedUtc": "2026-08-11T14:48:40.8904009Z"
 }
