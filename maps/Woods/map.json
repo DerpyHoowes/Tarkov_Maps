@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "5500728da55a40269a8b59cf46287a23",
+  "name": "\u041B\u0435\u0441",
+  "baseImage": "assets/0427aa5e30f3ee296fb7.webp",
+  "imageWidth": 6994,
+  "imageHeight": 6843,
+  "categories": [
+    {
+      "id": "9f657976ca804475b0780a0c9aa31b5d",
+      "name": "\u0424\u0438\u043D\u0430\u043D\u0441\u043E\u0432\u0430\u044F \u0434\u043E\u043A.",
+      "color": "#2E86AB",
+      "icon": "Circle",
+      "iconAsset": "assets/c2e17e9b24bb11c0c9e1.png",
+      "defaultScale": 1,
+      "isVisible": true,
+      "sortOrder": 0
+    },
+    {
+      "id": "2370cef0309d4b929616b96deeddcd09",
+      "name": "\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u0430\u044F \u0434\u043E\u043A.",
+      "color": "#F6BD60",
+      "icon": "Chest",
+      "iconAsset": "assets/186765ea0ef7cf2eac7f.png",
+      "defaultScale": 1,
+      "isVisible": true,
+      "sortOrder": 1
+    },
+    {
+      "id": "15f56b19debf4ba588781b1cb92f6776",
+      "name": "\u0422\u0435\u0445. \u0434\u043E\u043A.",
+      "color": "#3F6DE0",
+      "icon": "Skull",
+      "iconAsset": "assets/5571a8bf5769e3846fc1.png",
+      "defaultScale": 1,
+      "isVisible": true,
+      "sortOrder": 2
+    },
+    {
+      "id": "010d49d821a54f49ad6807f3757a74ec",
+      "name": "\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u0430\u044F \u0434\u043E\u043A.",
+      "color": "#B455CE",
+      "icon": "Book",
+      "iconAsset": "assets/da41d91886d7f8abf6f2.png",
+      "defaultScale": 1,
+      "isVisible": true,
+      "sortOrder": 3
+    },
+    {
+      "id": "a772bad2445446ab848f81a6a43b00f7",
+      "name": "\u041C\u0435\u0434\u0438\u0446\u0438\u043D\u0441\u043A\u0430\u044F \u0434\u043E\u043A.",
+      "color": "#4CB944",
+      "icon": "Dot",
+      "iconAsset": "assets/98b6ee95dbc8356b56a6.png",
+      "defaultScale": 1,
+      "isVisible": true,
+      "sortOrder": 4
+    },
+    {
+      "id": "9dd4689209d04ef59dec821154c8b287",
+      "name": "\u042D\u043A\u0441\u043F\u043B\u0443\u0430\u0442\u0430\u0446\u0438\u043E\u043D\u043D\u0430\u044F \u0434\u043E\u043A.",
+      "color": "#7A7A7A",
+      "icon": "Dot",
+      "iconAsset": "assets/c732fb936a9711d52f93.png",
+      "defaultScale": 1,
+      "isVisible": true,
+      "sortOrder": 5
+    },
+    {
+      "id": "33d8088b1398491d9f717cd4565095a9",
+      "name": "\u0422\u0435\u0441\u0442\u043E\u0432\u0430\u044F \u0434\u043E\u043A.",
+      "color": "#2B2D42",
+      "icon": "Dot",
+      "iconAsset": "assets/60c5e10adc2abe7dd49f.png",
+      "defaultScale": 1,
+      "isVisible": true,
+      "sortOrder": 6
+    }
+  ],
+  "markers": [],
+  "sync": {
+    "owner": "DerpyHoowes",
+    "repo": "Tarkov_Maps",
+    "branch": "main",
+    "folderPath": "maps/Reserve",
+    "lastCommitSha": "a6ac5d7b737e8e3ae96a0d2ec82deb1ec24512af",
+    "lastFolderSha": "f5da1468370351a10b4e6942c6b91cbd29bcb86a",
+    "lastSyncUtc": "2026-08-11T09:22:52.8631053Z"
+  },
+  "modifiedUtc": "2026-08-11T09:48:14.03823Z"
+}
