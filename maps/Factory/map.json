@@ -77,15 +77,460 @@
       "sortOrder": 6
     }
   ],
-  "markers": [],
+  "markers": [
+    {
+      "id": "8b0c4d1f540d46d8bd037eb97e98bf50",
+      "name": "\u0422\u0435\u0445\u043D\u0438\u0447\u043A\u0430 \u0437\u0430\u043A\u0440\u044B\u0442\u0430\u044F 1 \u044D\u0442\u0430\u0436",
+      "description": "\u0417\u0430\u043A\u0440\u044B\u0442\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430 \u043D\u0430 1 \u044D\u0442\u0430\u0436\u0435 \u043E\u0444\u0438\u0441\u043E\u0432 \u0437\u0430\u0432\u043E\u0434\u0430 (\u0437\u0430\u0431\u0440\u0430\u0442\u044C\u0441\u044F \u043C\u043E\u0436\u043D\u043E \u0441 \u0443\u043B\u0438\u0446\u044B \u0447\u0435\u0440\u0435\u0437 \u043E\u043A\u043D\u043E)",
+      "categoryId": "15f56b19debf4ba588781b1cb92f6776",
+      "x": 124.74,
+      "y": 160.17,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/4f5356bb710471d64a0e.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T09:08:43.3161433Z",
+      "modifiedUtc": "2026-08-11T09:29:56.4333434Z"
+    },
+    {
+      "id": "44385b6889ce4684bdb100eb655d7f21",
+      "name": "\u0412\u0440\u0435\u043C\u044F\u043D\u043A\u0430 \u043F\u0440\u043E\u0435\u043A\u0442\u044B",
+      "description": "\u0416\u0435\u043B\u0435\u0437\u043D\u0430\u044F \u0431\u0443\u0434\u043A\u0430 \u0440\u044F\u0434\u043E\u043C \u0441 \u0432\u044B\u0445\u043E\u0434\u043E\u043C \u00AB\u0412\u043E\u0440\u043E\u0442\u0430 3\u00BB",
+      "categoryId": "2370cef0309d4b929616b96deeddcd09",
+      "x": 176.14,
+      "y": 71.98,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/ad89a92d2305f4055424.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T09:09:01.2190134Z",
+      "modifiedUtc": "2026-08-11T09:42:49.0213004Z"
+    },
+    {
+      "id": "2ccd29c81c3447839fa5d0eabecaa0fa",
+      "name": "\u0422\u0440\u0430\u043D\u0441\u0444\u043E\u0440\u043C\u0430\u0442\u043E\u0440 \u043D\u0430\u0434 \u0446\u0438\u0444\u0440\u0430\u043C\u0438",
+      "description": "\u0412 \u0442\u0440\u0430\u043D\u0441\u0444\u043E\u0440\u043C\u0430\u0442\u043E\u0440\u0430\u0445 \u0440\u044F\u0434\u043E\u043C \u0441 \u043D\u0430\u0434\u043F\u0438\u0441\u044C\u044E \u043D\u0430 \u0441\u0442\u0435\u043D\u0435 \u00AB1986\u00BB",
+      "categoryId": "2370cef0309d4b929616b96deeddcd09",
+      "x": 530.04,
+      "y": 787.98,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/a37610c984c2e324cb54.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T09:09:26.3299882Z",
+      "modifiedUtc": "2026-08-11T09:43:55.6792326Z"
+    },
+    {
+      "id": "8ce9d47691dc4e5fbb825ad8c42d50b7",
+      "name": "\u0412\u044B\u0431\u0438\u0442\u0430\u044F \u0434\u0432\u0435\u0440\u044C ",
+      "description": "\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0435 \u0434\u043E\u043A\u0438 \u0437\u0430 \u0437\u0430\u0431\u0438\u0442\u043E\u0439 \u0434\u0432\u0435\u0440\u044C\u044E \u043D\u0430 \u043F\u043E\u043B\u0443",
+      "categoryId": "2370cef0309d4b929616b96deeddcd09",
+      "x": 95.8025,
+      "y": 650.755,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/5296b1dc4e9695029f88.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T09:09:51.5689272Z",
+      "modifiedUtc": "2026-08-11T09:41:43.1402487Z"
+    },
+    {
+      "id": "26ad84ba68e9474e9e2255249846c19f",
+      "name": "\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u043F\u043E\u0434 \u043A\u043B\u044E\u0447\u043E\u043C",
+      "description": "",
+      "categoryId": "2370cef0309d4b929616b96deeddcd09",
+      "x": 100.9875,
+      "y": 636.715,
+      "scale": 1,
+      "photos": [],
+      "createdUtc": "2026-08-11T09:09:57.0509264Z",
+      "modifiedUtc": "2026-08-11T09:28:18.3974369Z"
+    },
+    {
+      "id": "253532a46b0b4a66a03138b528f1d943",
+      "name": "\u0422\u0435\u0445\u043D\u0438\u0447\u043A\u0430 \u043E\u0444\u0438\u0441 3 \u044D\u0442 \u0432 \u0441\u0442\u043E\u043B\u0435",
+      "description": "3 \u044D\u0442\u0430\u0436 \u043E\u0444\u0438\u0441 \u0432 \u0432\u044B\u0434\u0432\u0438\u0436\u043D\u043E\u043C \u044F\u0449\u0438\u043A\u0435 \u0441\u0442\u043E\u043B\u0430",
+      "categoryId": "15f56b19debf4ba588781b1cb92f6776",
+      "x": 94.91,
+      "y": 656.8,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/148772f982433c849c8c.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T09:10:04.6639267Z",
+      "modifiedUtc": "2026-08-11T09:27:43.6775119Z"
+    },
+    {
+      "id": "bc4bae3a536e405683776c0512a613b7",
+      "name": "\u041F\u0440\u043E\u0435\u043A\u0442 \u043D\u0430 \u043A\u0430\u0440\u0442\u043E\u0442\u0435\u043A\u0430\u0445",
+      "description": "\u041E\u0444\u0438\u0441 \u043F\u0440\u043E\u0435\u043A\u0442 \u043D\u0430 \u0432\u044B\u0434\u0432\u0438\u0438\u0436\u043D\u044B\u0445 3 \u044D\u0442\r\n",
+      "categoryId": "2370cef0309d4b929616b96deeddcd09",
+      "x": 99.5,
+      "y": 656.47,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/32cacda7c49ec665b71e.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T09:10:10.2630295Z",
+      "modifiedUtc": "2026-08-11T09:47:10.4949528Z"
+    },
+    {
+      "id": "1b33cf413d32421ebd586548609946bd",
+      "name": "\u0422\u0435\u0445\u043D\u0438\u0447\u043A\u0430 \u043E\u0444\u0438\u0441 3 \u044D\u0442",
+      "description": "3 \u044D\u0442\u0430\u0436 \u043E\u0444\u0438\u0441\u043E\u0432 \u0432\u043E\u0437\u043B\u0435 \u0441\u0442\u043E\u043B\u0430 \u0441 \u0440\u0430\u0431\u043E\u0447\u0438\u043C \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440\u043E\u043C",
+      "categoryId": "15f56b19debf4ba588781b1cb92f6776",
+      "x": 98.73,
+      "y": 685.76,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/093f86ee716a802a5618.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T09:10:16.5800219Z",
+      "modifiedUtc": "2026-08-11T09:26:47.2435Z"
+    },
+    {
+      "id": "e5255c3e24e74ddb884641fa341c0af7",
+      "name": "\u041A\u0430\u0440\u0442\u043E\u0442\u0435\u043A\u0438 \u043A\u043E\u0440\u0438\u0434\u043E\u0440\u043D\u044B\u0435",
+      "description": "3 \u044D\u0442\u0430\u0436 \u043E\u0444\u0438\u0441\u043E\u0432 \u0437\u0430\u0432\u043E\u0434\u0430 \u0432 \u043E\u0442\u043A\u0440\u044B\u0442\u043E\u0439 \u043A\u0430\u0440\u0442\u043E\u0442\u0435\u043A\u0435 \u0432 \u043A\u043E\u0440\u0438\u0434\u043E\u0440\u0435",
+      "categoryId": "15f56b19debf4ba588781b1cb92f6776",
+      "x": 106.42,
+      "y": 627.4,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/32b949820b2dd897dcab.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T09:10:26.3158855Z",
+      "modifiedUtc": "2026-08-11T09:28:48.1404714Z"
+    },
+    {
+      "id": "fe75a146e80f416d8a3bec0797cb9393",
+      "name": "\u0422\u0435\u0445\u043D\u0438\u0447\u043A\u0430 \u043B\u0430\u0431\u0430 3 \u044D\u0442",
+      "description": "\u041B\u0430\u0431\u0430 \u0442\u0440\u0435\u0442\u0438\u0439 \u044D\u0442\u0430\u0436 \u0432 \u0441\u0442\u043E\u043B\u0435",
+      "categoryId": "15f56b19debf4ba588781b1cb92f6776",
+      "x": 732.0038961004409,
+      "y": 641.773017962059,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/249e5b94772bca01a94b.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T09:10:37.0948914Z",
+      "modifiedUtc": "2026-08-11T09:26:04.0995986Z"
+    },
+    {
+      "id": "483b8816f86c403da0943856fc1e90cd",
+      "name": "\u041B\u0430\u0431\u0430 \u043F\u0440\u043E\u0435\u043A\u0442 3 \u044D\u0442 ",
+      "description": "\u0417\u0430\u043D\u044B\u043A\u0430\u043B\u0441\u044F \u0432 \u0441\u0442\u044B\u043A\u0435 \u043C\u0435\u0436\u0434\u0443 \u0448\u043A\u0430\u0444\u043E\u043C \u0438 \u0442\u0443\u043C\u0431\u043E\u0439 \u044E\u043C\u0431\u043E\u0439",
+      "categoryId": "2370cef0309d4b929616b96deeddcd09",
+      "x": 678.37,
+      "y": 641.13,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/0385cb6c89f3f2e323c9.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T09:10:42.0898064Z",
+      "modifiedUtc": "2026-08-11T09:45:33.4762174Z"
+    },
+    {
+      "id": "be3317af357947b9a6527dd34e33a050",
+      "name": "\u041B\u0430\u0431\u0430 \u0441\u0442\u043E\u043B\u043E\u0432\u043A\u0430",
+      "description": "1 \u044D\u0442\u0430\u0436 \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u0438\u0438 \u0441\u0442\u043E\u043B\u043E\u0432\u043A\u0430",
+      "categoryId": "15f56b19debf4ba588781b1cb92f6776",
+      "x": 362.84,
+      "y": 143.17,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/3e86b173d3dcccb10554.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T09:11:02.1818505Z",
+      "modifiedUtc": "2026-08-11T09:31:00.4782353Z"
+    },
+    {
+      "id": "65d5647cf2164eb9add7ddc6ac479ebb",
+      "name": "\u041B\u0430\u0431\u0430 \u043B\u0430\u0432\u043E\u0447\u043A\u0430",
+      "description": "\u041F\u0435\u0440\u0432\u044B\u0439 \u044D\u0442\u0430\u0436 \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 \u043B\u0430\u0432\u043E\u0447\u043A\u0435",
+      "categoryId": "15f56b19debf4ba588781b1cb92f6776",
+      "x": 358.49,
+      "y": 162.26,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/0535687b7d02ac383327.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T09:15:01.3665361Z",
+      "modifiedUtc": "2026-08-11T09:30:53.5402543Z"
+    },
+    {
+      "id": "edb840492f8642fb95f74912f19eb601",
+      "name": "\u041E\u0444\u0438\u0441 1 \u044D\u0442\u0430\u0436 \u0442\u0435\u0445\u043D\u0438\u0447\u043A\u0430",
+      "description": "\u041E\u0444\u0438\u0441 \u043F\u0435\u0440\u0432\u044B\u0439 \u044D\u0442\u0430\u0436 \u0432 \u0432\u044B\u0434\u0432\u0438\u0436\u043D\u043E\u043C \u044F\u0449\u0438\u043A\u0435 \u0443 \u0441\u0435\u0439\u0444\u0430",
+      "categoryId": "15f56b19debf4ba588781b1cb92f6776",
+      "x": 134.3,
+      "y": 205.75,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/19b2913fe1a7821b1c0d.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T09:15:48.1165319Z",
+      "modifiedUtc": "2026-08-11T09:29:44.4583383Z"
+    },
+    {
+      "id": "59c251b259ac4804905d6b410271aaf5",
+      "name": "\u0422\u0435\u0445\u043D\u0438\u0447\u043A\u0430 \u043F\u043E\u0434 \u043A\u043B\u044E\u0447\u043E\u043C",
+      "description": "3 \u044D\u0442\u0430\u0436 \u043E\u0444\u0438\u0441\u043E\u0432 \u0437\u0430\u0432\u043E\u0434\u0430 (\u043A\u043E\u043C\u043D\u0430\u0442\u0430 \u0437\u0430\u043F\u0435\u0440\u0442\u0430\u044F \u043D\u0430 \u00AB\u041A\u043B\u044E\u0447 \u043E\u0442 \u0417\u0430\u0432\u043E\u0434\u0430\u00BB)",
+      "categoryId": "15f56b19debf4ba588781b1cb92f6776",
+      "x": 90.36,
+      "y": 636.95,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/836545a87804daeda101.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T09:17:00.7953581Z",
+      "modifiedUtc": "2026-08-11T09:28:04.5184262Z"
+    },
+    {
+      "id": "5277d9dc07d94416a1247f508638b34c",
+      "name": "\u0412\u0440\u0435\u043C\u044F\u043D\u043A\u0430 \u0442\u0435\u0445\u043D\u0438\u0447\u043A\u0430",
+      "description": "\u0416\u0435\u043B\u0435\u0437\u043D\u0430\u044F \u0432\u0440\u0435\u043C\u044F\u043D\u043A\u0430 \u0440\u044F\u0434\u043E\u043C \u0441 \u00AB\u0412\u044B\u0445\u043E\u0434\u043E\u043C 3\u00BB",
+      "categoryId": "15f56b19debf4ba588781b1cb92f6776",
+      "x": 187.41,
+      "y": 74.01,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/7361a8e47fd81b04d671.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T09:20:07.1570861Z",
+      "modifiedUtc": "2026-08-11T09:30:32.9922806Z"
+    },
+    {
+      "id": "082a97e31e3545fb8a466d7eb1b8da1e",
+      "name": "\u041C\u0435\u0434 \u043F\u0430\u043B\u0430\u0442\u043A\u0430",
+      "description": "\u0412 \u043C\u0435\u0434. \u043F\u0430\u043B\u0430\u0442\u043A\u0435 \u0440\u044F\u0434\u043E\u043C \u0441 \u0432\u044B\u0445\u043E\u0434\u043E\u043C \u00AB\u0412\u043E\u0440\u043E\u0442\u0430 \u0443 \u043C\u0435\u0434\u0438\u0446\u0438\u043D\u0441\u043A\u043E\u0439 \u043F\u0430\u043B\u0430\u0442\u043A\u0438\u00BB",
+      "categoryId": "15f56b19debf4ba588781b1cb92f6776",
+      "x": 340.63,
+      "y": 290.47,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/82ca38dcdbeb5b334c2b.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T09:21:27.8279925Z",
+      "modifiedUtc": "2026-08-11T09:31:30.3602431Z"
+    },
+    {
+      "id": "0623f21c595e45689631d895b1922dfb",
+      "name": "\u0422\u0435\u0445\u043D\u0438\u0447\u043A\u0430 \u043F\u043E\u0434 \u043A\u0432\u0430\u0434\u0440\u0430\u0442\u043E\u043C",
+      "description": "\u041F\u043E\u0434 \u0436\u0435\u043B\u0435\u0437\u043D\u043E\u0439 \u043B\u0435\u0441\u0442\u043D\u0438\u0446\u0435\u0439 \u0440\u044F\u0434\u043E\u043C \u0441 \u043E\u0444\u0438\u0441\u0430\u043C\u0438 \u0437\u0430\u0432\u043E\u0434\u0430",
+      "categoryId": "15f56b19debf4ba588781b1cb92f6776",
+      "x": 198.7645662978516,
+      "y": 142.9428314892578,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/d62072457655d8e663b5.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T09:21:53.1489282Z",
+      "modifiedUtc": "2026-08-11T09:30:19.0154326Z"
+    },
+    {
+      "id": "aab05735ee4140a7a2214f2b218b3141",
+      "name": "\u0421\u0435\u043A\u0440\u0435\u0442\u043D\u0430\u044F \u043A\u043E\u043C\u043D\u0430\u0442\u0430",
+      "description": "\u0417\u0430 \u0432\u043E\u0440\u043E\u0442\u0430\u043C\u0438 \u21162 \u0432 \u043F\u043E\u043C\u0435\u0449\u0435\u043D\u0438\u0438 \u0441 \u0432\u044B\u0445\u043E\u0434\u043E\u043C \u043D\u0430 \u0443\u043B\u0438\u0446\u0443",
+      "categoryId": "15f56b19debf4ba588781b1cb92f6776",
+      "x": 390.81,
+      "y": 96.77,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/24da5108ec3771f3686f.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T09:22:36.7958845Z",
+      "modifiedUtc": "2026-08-11T09:31:11.5121883Z"
+    },
+    {
+      "id": "20850e22af0a45e9b7bf2d5f8ce5faa3",
+      "name": "\u0422\u0443\u043D\u0435\u043B\u044C\u043D\u044B\u0439 \u0442\u0440\u0443\u043F",
+      "description": "\u0412 \u043F\u043E\u0434\u0432\u0430\u043B\u0430\u0445 \u043D\u0435\u0434\u0430\u043B\u0435\u043A\u043E \u043E\u0442 \u043C\u0435\u0434. \u043F\u0430\u043B\u0430\u0442\u043A\u0438 \u0432 \u043D\u043E\u0433\u0430\u0445 \u043C\u0435\u0440\u0442\u0432\u043E\u0433\u043E \u0427\u0412\u041A",
+      "categoryId": "15f56b19debf4ba588781b1cb92f6776",
+      "x": 769.07,
+      "y": 271.03,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/5bc146ded79b5e4108f8.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T09:23:52.3797814Z",
+      "modifiedUtc": "2026-08-11T09:31:21.6441932Z"
+    },
+    {
+      "id": "7313fe7f97cc4172a48587f849f4cccb",
+      "name": "\u0412 \u043F\u043E\u0434\u0441\u043E\u0431\u043A\u0435 TerraGroup ",
+      "description": "\u0412 \u043F\u043E\u0434\u0441\u043E\u0431\u043A\u0435 TerraGroup \u0437\u0430\u043F\u0435\u0440\u0442\u043E\u0439 \u043D\u0430 \u00AB\u041A\u043B\u044E\u0447-\u043A\u0430\u0440\u0442\u0430 \u043E\u0442 \u0441\u043A\u043B\u0430\u0434\u0430 TerraGroup\u00BB",
+      "categoryId": "2370cef0309d4b929616b96deeddcd09",
+      "x": 514.8,
+      "y": 302.26,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/c28326d20e0ea91f773f.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T09:42:05.1313067Z",
+      "modifiedUtc": "2026-08-11T09:42:29.8561829Z"
+    },
+    {
+      "id": "9f8020a4c95242ecbabe794278281ad4",
+      "name": "\u041F\u0440\u043E\u0435\u043A\u0442 \u043B\u0430\u0431\u0430 1 \u044D\u0442",
+      "description": "1 \u044D\u0442\u0430\u0436 \u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u0438\u0438 \u0432 \u0448\u043A\u0430\u0444\u0447\u0438\u043A\u0435",
+      "categoryId": "2370cef0309d4b929616b96deeddcd09",
+      "x": 363.56,
+      "y": 157.75,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/249366aaa120b472513e.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T09:43:18.0112287Z",
+      "modifiedUtc": "2026-08-11T09:43:35.2096852Z"
+    },
+    {
+      "id": "8ce01badcce64eaabd88ec6e781628c5",
+      "name": "1 \u044D\u0442\u0430\u0436 \u0432 \u0437\u0430\u043F\u0435\u0440\u0442\u043E\u0439 \u043A\u043E\u043C\u043D\u0430\u0442\u0435 \u043F\u0440\u043E\u0435\u043A\u0442",
+      "description": "\u041D\u0430 1 \u044D\u0442\u0430\u0436\u0435 \u0432 \u0437\u0430\u043F\u0435\u0440\u0442\u043E\u0439 \u043A\u043E\u043C\u043D\u0430\u0442\u0435 \u043E\u0444\u0438\u0441\u043E\u0432 \u0437\u0430\u0432\u043E\u0434\u0430 (\u043F\u043E\u043F\u0430\u0441\u0442\u044C \u043C\u043E\u0436\u043D\u043E \u0447\u0435\u0440\u0435\u0437 \u043E\u043A\u043D\u043E \u0441 \u0443\u043B\u0438\u0446\u044B)",
+      "categoryId": "2370cef0309d4b929616b96deeddcd09",
+      "x": 127.77,
+      "y": 160.07,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/4abd55bc9d61111cde35.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T09:44:10.3431392Z",
+      "modifiedUtc": "2026-08-11T09:44:42.1916906Z"
+    },
+    {
+      "id": "f517ab40dfae44da9fba87e5dd303c8d",
+      "name": "3 \u044D\u0442\u0430\u0436 \u043E\u0444\u0438\u0441\u043E\u0432 \u043F\u0440\u043E\u0435\u043A\u0442",
+      "description": "3 \u044D\u0442\u0430\u0436 \u043E\u0444\u0438\u0441\u043E\u0432 \u0437\u0430\u0432\u043E\u0434\u0430 \u0432 \u043A\u043E\u043C\u043D\u0430\u0442\u0435 \u0441 \u0441\u0435\u0439\u0444\u043E\u043C",
+      "categoryId": "2370cef0309d4b929616b96deeddcd09",
+      "x": 91.23,
+      "y": 686.33,
+      "scale": 1,
+      "photos": [],
+      "createdUtc": "2026-08-11T09:44:57.0020457Z",
+      "modifiedUtc": "2026-08-11T09:45:06.7020699Z"
+    },
+    {
+      "id": "e36460a1756e473dae3b47161db5a2ab",
+      "name": "1 \u044D\u0442\u0430\u0436 \u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u0438\u0438 \u043F\u0440\u043E\u0435\u043A\u0442",
+      "description": "1 \u044D\u0442\u0430\u0436 \u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u0438\u0438 \u0432 \u043A\u043E\u0440\u0438\u0434\u043E\u0440\u0435 \u043F\u0440\u043E\u0435\u043A\u0442",
+      "categoryId": "2370cef0309d4b929616b96deeddcd09",
+      "x": 360.93,
+      "y": 129.86,
+      "scale": 1,
+      "photos": [],
+      "createdUtc": "2026-08-11T09:46:00.9269941Z",
+      "modifiedUtc": "2026-08-11T09:46:28.2868899Z"
+    },
+    {
+      "id": "1e89904245454a9e862d22461da48315",
+      "name": "\u0413\u0430\u0437\u0430\u043D\u044B",
+      "description": "\u041F\u0440\u0438\u0441\u0442\u0440\u043E\u0439\u043A\u0430 \u0433\u0430\u0437\u0430\u043D\u044B",
+      "categoryId": "2370cef0309d4b929616b96deeddcd09",
+      "x": 299.97,
+      "y": 123.95,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/5af3988ed8428828c2a3.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T09:49:58.6947253Z",
+      "modifiedUtc": "2026-08-11T09:50:25.0563746Z"
+    },
+    {
+      "id": "283a4965c620423b805da6448ef15d98",
+      "name": "\u0422\u043E\u043D\u0435\u043B\u044C \u043F\u0440\u043E\u0435\u043A\u0442",
+      "description": "\u041F\u043E\u0434 \u043E\u0444\u0438\u0441\u0430\u043C\u0438 \u0431\u043B\u0438\u0436\u0435 \u043A \u0432\u044B\u0445\u043E\u0434\u0443 \u0432\u043E\u0440\u043E\u0442\u0430 0",
+      "categoryId": "2370cef0309d4b929616b96deeddcd09",
+      "x": 471.37,
+      "y": 245.43,
+      "scale": 1,
+      "photos": [
+        {
+          "asset": "assets/5557063431346572b1a5.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T09:50:57.855614Z",
+      "modifiedUtc": "2026-08-11T09:51:36.0964092Z"
+    }
+  ],
   "sync": {
     "owner": "DerpyHoowes",
     "repo": "Tarkov_Maps",
     "branch": "main",
-    "folderPath": "maps/map",
-    "lastCommitSha": "3678cc486d308e2b96d21bddd323d13e46a9dfbf",
-    "lastFolderSha": "1154ee5036d15b6610cf149f407a9a9adc96a220",
-    "lastSyncUtc": "2026-08-11T09:01:41.8681105Z"
+    "folderPath": "maps/Factory",
+    "lastCommitSha": "7884836aacbc8139046839e52bbb06b798e7d038",
+    "lastFolderSha": "d19a732b16b6162766f95d17a4686e5ac7983686",
+    "lastSyncUtc": "2026-08-11T09:08:21.1082873Z"
   },
-  "modifiedUtc": "2026-08-11T09:03:05.9676802Z"
+  "modifiedUtc": "2026-08-11T09:55:51.8602739Z"
 }
