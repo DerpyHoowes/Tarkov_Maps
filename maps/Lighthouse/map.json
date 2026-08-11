@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "78fd86958e6d4e7880a940a0cc60fc23",
   "name": "Lighthouse",
   "baseImage": "assets/5cd62f32118bd00c594d.webp",
@@ -87,32 +87,125 @@
       "sortOrder": 7
     }
   ],
-  "markers": [],
-  "translations": [
+  "markers": [
     {
-      "code": "ru",
-      "name": "Russian",
-      "strings": {
-        "map.name": "\u041C\u0430\u044F\u043A",
-        "category.9f657976ca804475b0780a0c9aa31b5d.name": "\u0424\u0438\u043D\u0430\u043D\u0441\u043E\u0432\u0430\u044F \u0434\u043E\u043A.",
-        "category.2370cef0309d4b929616b96deeddcd09.name": "\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u0430\u044F \u0434\u043E\u043A.",
-        "category.15f56b19debf4ba588781b1cb92f6776.name": "\u0422\u0435\u0445. \u0434\u043E\u043A.",
-        "category.010d49d821a54f49ad6807f3757a74ec.name": "\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u0430\u044F \u0434\u043E\u043A.",
-        "category.a772bad2445446ab848f81a6a43b00f7.name": "\u041C\u0435\u0434\u0438\u0446\u0438\u043D\u0441\u043A\u0430\u044F \u0434\u043E\u043A.",
-        "category.9dd4689209d04ef59dec821154c8b287.name": "\u042D\u043A\u0441\u043F\u043B\u0443\u0430\u0442\u0430\u0446\u0438\u043E\u043D\u043D\u0430\u044F \u0434\u043E\u043A.",
-        "category.33d8088b1398491d9f717cd4565095a9.name": "\u0422\u0435\u0441\u0442\u043E\u0432\u0430\u044F \u0434\u043E\u043A.",
-        "category.7b8ab6f339034d2dac053772ecfcd28c.name": "\u041B\u0438\u0447\u043D\u044B\u0435 \u0434\u0435\u043B\u0430 \u0427\u0412\u041A"
-      }
+      "id": "bc4abd4cb1e3405caa14875961705b33",
+      "name": "Tech rogue north",
+      "description": "2nd floor",
+      "categoryId": "9dd4689209d04ef59dec821154c8b287",
+      "x": 403.24,
+      "y": 734.67,
+      "scale": 1,
+      "photos": [
+        {
+          "id": "f0fa8c5295fb48bbbe76eccc5b90b3a1",
+          "asset": "assets/ea2354fc31072412e869.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T12:13:53.2441172Z",
+      "modifiedUtc": "2026-08-11T12:15:42.5952229Z"
+    },
+    {
+      "id": "3c438d7da9924ced8b50e2fb47658dd9",
+      "name": "Look map north 2nd floor",
+      "description": "",
+      "categoryId": "9dd4689209d04ef59dec821154c8b287",
+      "x": 1304.73,
+      "y": 906.37,
+      "scale": 1,
+      "photos": [],
+      "createdUtc": "2026-08-11T12:15:51.5350408Z",
+      "modifiedUtc": "2026-08-11T12:16:07.4369102Z"
+    },
+    {
+      "id": "d37c303f6b3f4a1aab225d63fe05944f",
+      "name": "Tech doc village",
+      "description": "2nd floor brick house",
+      "categoryId": "9dd4689209d04ef59dec821154c8b287",
+      "x": 1472.74,
+      "y": 2036.89,
+      "scale": 1,
+      "photos": [
+        {
+          "id": "baf0026fedc04d949e8beaaffca799c7",
+          "asset": "assets/4e28e31ce163755ef106.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T12:16:59.9138415Z",
+      "modifiedUtc": "2026-08-11T12:17:36.7467897Z"
+    },
+    {
+      "id": "4bff5ad22c6841abb293e3d7e25d1aa9",
+      "name": "Tech USEC cottage",
+      "description": "3rd floor yummy docs",
+      "categoryId": "9dd4689209d04ef59dec821154c8b287",
+      "x": 1842.6282957919268,
+      "y": 2358.707535067276,
+      "scale": 1,
+      "photos": [
+        {
+          "id": "a317f761a9114a33952c9b1b17a09761",
+          "asset": "assets/d8b343c67a573fc83cf6.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T12:18:21.4476759Z",
+      "modifiedUtc": "2026-08-11T12:19:01.6137307Z"
+    },
+    {
+      "id": "d62fc1e6d49f4f63bd670734a477e99f",
+      "name": "Look map USEC cottage 3F",
+      "description": "",
+      "categoryId": "9dd4689209d04ef59dec821154c8b287",
+      "x": 1261.0195368651703,
+      "y": 2276.6029968229477,
+      "scale": 1,
+      "photos": [],
+      "createdUtc": "2026-08-11T12:19:09.9395646Z",
+      "modifiedUtc": "2026-08-11T12:20:34.3544045Z"
+    },
+    {
+      "id": "8716129957c740059f0855fef9425b06",
+      "name": "Look map USEC cottage 2F",
+      "description": "",
+      "categoryId": "7b8ab6f339034d2dac053772ecfcd28c",
+      "x": 1260.408632157531,
+      "y": 2330.434066017197,
+      "scale": 1,
+      "photos": [],
+      "createdUtc": "2026-08-11T12:19:59.8485641Z",
+      "modifiedUtc": "2026-08-11T12:20:28.0883926Z"
+    },
+    {
+      "id": "1cc5b2c0b60b47519f4b5ccc30d39144",
+      "name": "PMC doc USEC cottage",
+      "description": "2nd floor ",
+      "categoryId": "7b8ab6f339034d2dac053772ecfcd28c",
+      "x": 1781.37,
+      "y": 2391.38,
+      "scale": 1,
+      "photos": [
+        {
+          "id": "819b2fd35ab04508b0aafee47c604fe7",
+          "asset": "assets/b2dbe871f87fcf1d9052.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-11T12:20:40.3235375Z",
+      "modifiedUtc": "2026-08-11T12:21:23.9103764Z"
     }
   ],
+  "translations": [],
   "sync": {
     "owner": "DerpyHoowes",
     "repo": "Tarkov_Maps",
     "branch": "main",
     "folderPath": "maps/Lighthouse",
-    "lastCommitSha": "87da8b70501d09ca5b47e1996b895861129405ad",
-    "lastFolderSha": "bf886b72fe3aa19bab885b0c2a2f5aa9d6eb46f0",
-    "lastSyncUtc": "2026-08-11T09:50:03.1723254Z"
+    "lastCommitSha": "4a1695ce49cb6fb847c899e1a9da0abf662c8312",
+    "lastFolderSha": "9e56c392f83cd885859b185bce48f62f958331b8",
+    "lastSyncUtc": "2026-08-11T12:12:52.9953555Z"
   },
-  "modifiedUtc": "2026-08-11T11:31:30.5957392Z"
+  "modifiedUtc": "2026-08-11T21:13:59.6201652Z"
 }
