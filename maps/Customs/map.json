@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "16a0e80902e343ae88c9b5ab357e2611",
   "name": "Customs",
   "baseImage": "assets/989bada2295d423c587e.png",
@@ -93,8 +93,8 @@
       "name": "Financial doc. in library",
       "description": "Library first floor, behind wooden doors, on the floor besides books",
       "categoryId": "9f657976ca804475b0780a0c9aa31b5d",
-      "x": 1628.09,
-      "y": 1529.42,
+      "x": 1635.9816776017558,
+      "y": 1525.2508118330347,
       "scale": 1,
       "photos": [
         {
@@ -104,19 +104,109 @@
         }
       ],
       "createdUtc": "2026-08-11T08:01:45.608403Z",
-      "modifiedUtc": "2026-08-11T11:18:52.1565018Z"
+      "modifiedUtc": "2026-08-13T22:18:23.7764552Z"
     },
     {
       "id": "08bf3effa44c45b790773c635b528a35",
       "name": "Project doc. in library",
       "description": "Library first floor, behind wooden doors, on a bookshelf",
       "categoryId": "2370cef0309d4b929616b96deeddcd09",
-      "x": 1623.3152411727317,
-      "y": 1573.104292638646,
+      "x": 1631.8025170840542,
+      "y": 1545.5578708211963,
       "scale": 1,
       "photos": [],
       "createdUtc": "2026-08-11T08:23:26.335809Z",
-      "modifiedUtc": "2026-08-11T11:18:41.748084Z"
+      "modifiedUtc": "2026-08-13T22:18:25.9205257Z"
+    },
+    {
+      "id": "7ddeb2b47cdf48828039814f5836818d",
+      "name": "Financial doc. Warehouse",
+      "description": "Third floor of the Warehouse where you plant Wi-Fi cameras for Ref",
+      "categoryId": "9f657976ca804475b0780a0c9aa31b5d",
+      "x": 2327.2,
+      "y": 1171.81,
+      "scale": 1,
+      "photos": [
+        {
+          "id": "104194ac4cee4883966e726c45564e47",
+          "asset": "https://kordbreach-docs-list.vercel.app/images/Financial_documents_Customs_4.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-13T22:10:08.6609473Z",
+      "modifiedUtc": "2026-08-13T22:11:17.5158244Z"
+    },
+    {
+      "id": "a2eef1aec2f240248f914c00ded3091f",
+      "name": "Project doc. Stronghold",
+      "description": "On a shelf",
+      "categoryId": "2370cef0309d4b929616b96deeddcd09",
+      "x": 2083.84,
+      "y": 1537.81,
+      "scale": 1,
+      "photos": [
+        {
+          "id": "a36de4f9c0ba4daea9d3c3f96e0d8915",
+          "asset": "https://kordbreach-docs-list.vercel.app/images/Project_documentation_Customs_8.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-13T22:12:08.8207229Z",
+      "modifiedUtc": "2026-08-13T22:12:26.0120611Z"
+    },
+    {
+      "id": "2f005611a8564f63aea439ff9b7c18b9",
+      "name": "Financial doc. Shack next to Library",
+      "description": "",
+      "categoryId": "9f657976ca804475b0780a0c9aa31b5d",
+      "x": 1562.08,
+      "y": 1634.05,
+      "scale": 1,
+      "photos": [],
+      "createdUtc": "2026-08-13T22:13:57.2207185Z",
+      "modifiedUtc": "2026-08-13T22:14:14.9077215Z"
+    },
+    {
+      "id": "bcf0e8b2fe4842189d94597791accea6",
+      "name": "Financial doc. Library",
+      "description": "On the bookshelf close to room\u0027s end",
+      "categoryId": "9f657976ca804475b0780a0c9aa31b5d",
+      "x": 1644.4177029582586,
+      "y": 1551.9532895929765,
+      "scale": 1,
+      "photos": [
+        {
+          "id": "58ea97d06add403fa4e4fbf73b8495f4",
+          "asset": "assets/b6ec3eb9ebde97e6d4ab.jpg",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-13T22:17:14.4285776Z",
+      "modifiedUtc": "2026-08-13T22:18:24.8143139Z"
+    },
+    {
+      "id": "c78a5e4aaaeb45d5acee45126b8602b0",
+      "name": "Financial doc. - 2 st. Dorms 212",
+      "description": "",
+      "categoryId": "9f657976ca804475b0780a0c9aa31b5d",
+      "x": 433.8614242379787,
+      "y": 92.23625910227157,
+      "scale": 1,
+      "photos": [],
+      "createdUtc": "2026-08-13T22:22:20.5444788Z",
+      "modifiedUtc": "2026-08-13T22:22:53.6022319Z"
+    },
+    {
+      "id": "c31601ee002f4321972940616fe1be60",
+      "name": "Financial doc. - 2 st. Dorms 304",
+      "description": "",
+      "categoryId": "9f657976ca804475b0780a0c9aa31b5d",
+      "x": 727.45,
+      "y": 378.59,
+      "scale": 1,
+      "photos": [],
+      "createdUtc": "2026-08-13T22:24:49.5282809Z",
+      "modifiedUtc": "2026-08-13T22:25:01.2514006Z"
     }
   ],
   "translations": [
@@ -144,9 +234,9 @@
     "repo": "Tarkov_Maps",
     "branch": "main",
     "folderPath": "maps/Customs",
-    "lastCommitSha": "b6b221d4057e3c7c37adc858031ab9299fb4107b",
-    "lastFolderSha": "20c4ae0a528b98a28f888ce87863b889e4092116",
-    "lastSyncUtc": "2026-08-11T11:21:09.4449583Z"
+    "lastCommitSha": "6ad9a0a5b2d385b757131f383a990b6b4212ec49",
+    "lastFolderSha": "c8a8150bd6be2fa45e092969b55a9c53f89f4f37",
+    "lastSyncUtc": "2026-08-13T22:08:48.7266744Z"
   },
-  "modifiedUtc": "2026-08-11T11:21:45.5319934Z"
+  "modifiedUtc": "2026-08-13T22:25:12.4188972Z"
 }
