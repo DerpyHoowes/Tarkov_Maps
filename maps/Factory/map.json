@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "16a0e80902e343ae88c9b5ab357e2611",
   "name": "Factory",
   "baseImage": "assets/11680486d1353bdcfef5.png",
@@ -557,6 +557,24 @@
       ],
       "createdUtc": "2026-08-11T09:50:57.855614Z",
       "modifiedUtc": "2026-08-11T12:32:07.7780166Z"
+    },
+    {
+      "id": "f7d2e6e499fd445bae8accdefcae0169",
+      "name": "Blueprints TG Storage Room",
+      "description": "On a safe",
+      "categoryId": "15f56b19debf4ba588781b1cb92f6776",
+      "x": 513.41,
+      "y": 308.53,
+      "scale": 1,
+      "photos": [
+        {
+          "id": "6d7d4307c20646a4abb63e4e5d64b669",
+          "asset": "assets/b519a5f98adcb69a065a.png",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-13T21:53:39.8496496Z",
+      "modifiedUtc": "2026-08-13T21:55:30.5488378Z"
     }
   ],
   "translations": [
@@ -634,9 +652,9 @@
     "repo": "Tarkov_Maps",
     "branch": "main",
     "folderPath": "maps/Factory",
-    "lastCommitSha": "24726c9a95f12f92a105e9364f683c6de069458d",
-    "lastFolderSha": "af60bcf73e018b293877a7c39dd61b6414a445d9",
-    "lastSyncUtc": "2026-08-11T11:48:36.2645094Z"
+    "lastCommitSha": "81a4d4b869862015fdb6d1d57d2487566a0f9c37",
+    "lastFolderSha": "0cda27e58334e0a7fb5c5e490656770e4a2effd3",
+    "lastSyncUtc": "2026-08-13T21:42:45.8655101Z"
   },
-  "modifiedUtc": "2026-08-11T12:54:53.1130508Z"
+  "modifiedUtc": "2026-08-13T22:07:33.9984362Z"
 }
