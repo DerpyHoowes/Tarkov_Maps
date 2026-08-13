@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "59bc83411ff847abb960376a363d5799",
   "name": "Ground Zero",
   "baseImage": "assets/0c065bcf9182b9dcc65a.webp",
@@ -87,7 +87,44 @@
       "sortOrder": 7
     }
   ],
-  "markers": [],
+  "markers": [
+    {
+      "id": "cb7c0ad4b3e44c08b1a64651ff46866a",
+      "name": "User Doc Coffee Shop",
+      "description": "On a coffee table to the left from entrance",
+      "categoryId": "010d49d821a54f49ad6807f3757a74ec",
+      "x": 3350.92,
+      "y": 2504.21,
+      "scale": 1,
+      "photos": [
+        {
+          "id": "de4791562a64486fbce345055df61924",
+          "asset": "assets/2211e173938f32fc078a.png",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-13T15:56:30.2369598Z",
+      "modifiedUtc": "2026-08-13T15:58:13.4960085Z"
+    },
+    {
+      "id": "9e75cf0a4e894d4880da839684bdf847",
+      "name": "User Doc Tarbank 1st Floor",
+      "description": "On a bookshelf",
+      "categoryId": "010d49d821a54f49ad6807f3757a74ec",
+      "x": 2924.43,
+      "y": 3474.27,
+      "scale": 1,
+      "photos": [
+        {
+          "id": "5fb9900bdc6b4aecb10d44e0ac6c1cd8",
+          "asset": "assets/6bbce73d9dc692509f81.png",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-13T15:58:42.485148Z",
+      "modifiedUtc": "2026-08-13T15:59:10.6069319Z"
+    }
+  ],
   "translations": [
     {
       "code": "ru",
@@ -110,9 +147,9 @@
     "repo": "Tarkov_Maps",
     "branch": "main",
     "folderPath": "maps/GroundZero",
-    "lastCommitSha": "8bd2b06247e09db596de7483c6a6fb07a55aa336",
-    "lastFolderSha": "650d0655008af4bcdfc776afe726f054ff08d462",
-    "lastSyncUtc": "2026-08-11T09:55:16.7395029Z"
+    "lastCommitSha": "254015ee5c24a7742453ac2aad26e4f0ff9f8524",
+    "lastFolderSha": "039f9e02776291929e673fa97001684383fd3d32",
+    "lastSyncUtc": "2026-08-13T15:56:21.9616117Z"
   },
-  "modifiedUtc": "2026-08-11T11:28:53.4036463Z"
+  "modifiedUtc": "2026-08-13T16:00:11.8341041Z"
 }
