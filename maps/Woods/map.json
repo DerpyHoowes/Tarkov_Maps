@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "id": "5500728da55a40269a8b59cf46287a23",
   "name": "Woods",
   "baseImage": "assets/0427aa5e30f3ee296fb7.webp",
@@ -87,7 +87,152 @@
       "sortOrder": 7
     }
   ],
-  "markers": [],
+  "markers": [
+    {
+      "id": "2b263f66c56047b0bd6df4629cd10a7f",
+      "name": "Test doc. USEC Camp",
+      "description": "Inside of a tent in the southern part of the camp.",
+      "categoryId": "33d8088b1398491d9f717cd4565095a9",
+      "x": 1784.12,
+      "y": 2330.04,
+      "scale": 1,
+      "photos": [
+        {
+          "id": "271a16a1d61347f09223e96bbbb8afd7",
+          "asset": "assets/0f74da0eee3304833861.png",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-14T20:16:06.0863117Z",
+      "modifiedUtc": "2026-08-14T20:17:06.9266309Z"
+    },
+    {
+      "id": "1328a36fe1c34c80a17f64d0aba19a78",
+      "name": "Technical doc. USEC Camp",
+      "description": "On a stool by the radar dish",
+      "categoryId": "9dd4689209d04ef59dec821154c8b287",
+      "x": 1901.61,
+      "y": 2109.03,
+      "scale": 1,
+      "photos": [
+        {
+          "id": "b4f27f2074364c5797f561981105f391",
+          "asset": "assets/bed031b459e3d59965a3.png",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-14T20:18:13.8302529Z",
+      "modifiedUtc": "2026-08-14T20:18:35.1094043Z"
+    },
+    {
+      "id": "137b1414a993406bb778d947a88d3f38",
+      "name": "Test doc. USEC Camp",
+      "description": "On medical table next to a body on stretchers",
+      "categoryId": "33d8088b1398491d9f717cd4565095a9",
+      "x": 1955.17,
+      "y": 2100.08,
+      "scale": 1,
+      "photos": [
+        {
+          "id": "61878bade7da4654be3ae37a970323f5",
+          "asset": "assets/1a277f0ac04126b6368f.png",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-14T20:19:14.574322Z",
+      "modifiedUtc": "2026-08-14T20:27:22.078014Z"
+    },
+    {
+      "id": "877a35b96c614ba4a57c11bfb5661de6",
+      "name": "Test doc. USEC Checkpoint",
+      "description": "On the drawers",
+      "categoryId": "33d8088b1398491d9f717cd4565095a9",
+      "x": 2111.27,
+      "y": 4196.88,
+      "scale": 1,
+      "photos": [
+        {
+          "id": "7b913c35b21a418eb6a1b9f4036cda0d",
+          "asset": "assets/410e7584c06cce04d4a2.png",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-14T20:24:30.2380281Z",
+      "modifiedUtc": "2026-08-14T20:27:29.9879961Z"
+    },
+    {
+      "id": "e052ac4b9caa47459d62e42698661504",
+      "name": "Technical doc. SUV",
+      "description": "By the dead body",
+      "categoryId": "9dd4689209d04ef59dec821154c8b287",
+      "x": 1485.15,
+      "y": 5127.14,
+      "scale": 1,
+      "photos": [
+        {
+          "id": "07b136cbc0aa45578aa2d842cb28e84a",
+          "asset": "assets/b88e81d68638ad19afb1.png",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-14T20:26:36.3863062Z",
+      "modifiedUtc": "2026-08-14T20:27:00.7541069Z"
+    },
+    {
+      "id": "6ac0cc0a89544b7787d29577767ef4bf",
+      "name": "Test doc. EMERCOM",
+      "description": "In the white container besides a dead body",
+      "categoryId": "33d8088b1398491d9f717cd4565095a9",
+      "x": 4224.64,
+      "y": 5660.07,
+      "scale": 1,
+      "photos": [
+        {
+          "id": "d45839631569487680cb5200aa700476",
+          "asset": "assets/32f426ed17b8fbf992e4.png",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-14T20:48:32.8815409Z",
+      "modifiedUtc": "2026-08-14T20:49:00.4604541Z"
+    },
+    {
+      "id": "f5645d917c9546eea02542eef67400e4",
+      "name": "Technical doc. Plane crash",
+      "description": "Inside of the plane\u0027s cockpit",
+      "categoryId": "9dd4689209d04ef59dec821154c8b287",
+      "x": 4442.15675333493,
+      "y": 4417.708441519768,
+      "scale": 1,
+      "photos": [
+        {
+          "id": "a1e6da6528ff4b73bbdb97f3f942c721",
+          "asset": "assets/15e7c39dbea2c488eca5.png",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-14T20:50:58.5713275Z",
+      "modifiedUtc": "2026-08-14T20:51:31.207154Z"
+    },
+    {
+      "id": "a38f19251845412880d96d9b687876f2",
+      "name": "Test doc. USEC Camp",
+      "description": "Inside of a sleeping bag in southern part of the camp",
+      "categoryId": "33d8088b1398491d9f717cd4565095a9",
+      "x": 1950.44,
+      "y": 2404.92,
+      "scale": 1,
+      "photos": [
+        {
+          "id": "5159139c5fff4cf0831f3628363ab295",
+          "asset": "assets/849cc384587d2ce08f56.png",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-14T20:56:28.2011803Z",
+      "modifiedUtc": "2026-08-14T20:57:05.9196769Z"
+    }
+  ],
   "translations": [
     {
       "code": "ru",
@@ -110,9 +255,9 @@
     "repo": "Tarkov_Maps",
     "branch": "main",
     "folderPath": "maps/Woods",
-    "lastCommitSha": "8c333ddbd07aac80389d97de72945bdcd49b78ec",
-    "lastFolderSha": "f1430a101a01ade3fc1bd4b585351520c194c60d",
-    "lastSyncUtc": "2026-08-11T09:48:23.1650533Z"
+    "lastCommitSha": "81a4d4b869862015fdb6d1d57d2487566a0f9c37",
+    "lastFolderSha": "00052e7e84c9cd646c8356d1097e95246e0a8c40",
+    "lastSyncUtc": "2026-08-13T17:44:00.8999115Z"
   },
-  "modifiedUtc": "2026-08-11T11:50:43.7871155Z"
+  "modifiedUtc": "2026-08-14T21:19:36.0501422Z"
 }
