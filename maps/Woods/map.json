@@ -231,6 +231,42 @@
       ],
       "createdUtc": "2026-08-14T20:56:28.2011803Z",
       "modifiedUtc": "2026-08-14T20:57:05.9196769Z"
+    },
+    {
+      "id": "6b5defb5ca32452eb0182d0591c4dade",
+      "name": "Technical Doc. Old Sawmill Cabin",
+      "description": "On the floor of a small cabin",
+      "categoryId": "9dd4689209d04ef59dec821154c8b287",
+      "x": 5528.68,
+      "y": 3671.92,
+      "scale": 1,
+      "photos": [
+        {
+          "id": "83e180f238f14f0391a111a0ba4a59cb",
+          "asset": "assets/5a741bd191964ee14d32.png",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-14T22:47:56.5121888Z",
+      "modifiedUtc": "2026-08-14T22:48:29.9193187Z"
+    },
+    {
+      "id": "24d2761dc526409fb3620cfc3665a004",
+      "name": "Test Doc. USEC Camp",
+      "description": "On a crate",
+      "categoryId": "33d8088b1398491d9f717cd4565095a9",
+      "x": 1924.8,
+      "y": 2138.39,
+      "scale": 1,
+      "photos": [
+        {
+          "id": "949ffca465954e1c8ad45ea747a31cd5",
+          "asset": "assets/df90da62ace3f6a011c7.png",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-16T07:53:07.0703178Z",
+      "modifiedUtc": "2026-08-16T07:53:31.1626374Z"
     }
   ],
   "translations": [
@@ -255,9 +291,9 @@
     "repo": "Tarkov_Maps",
     "branch": "main",
     "folderPath": "maps/Woods",
-    "lastCommitSha": "81a4d4b869862015fdb6d1d57d2487566a0f9c37",
-    "lastFolderSha": "00052e7e84c9cd646c8356d1097e95246e0a8c40",
-    "lastSyncUtc": "2026-08-13T17:44:00.8999115Z"
+    "lastCommitSha": "b13d427e69651cb60e334ae647755a01b30b1900",
+    "lastFolderSha": "8708d6570cbb31dd6f03a2412c8e98be0a08a398",
+    "lastSyncUtc": "2026-08-14T21:20:09.600938Z"
   },
-  "modifiedUtc": "2026-08-14T21:19:36.0501422Z"
+  "modifiedUtc": "2026-08-16T07:53:45.9472672Z"
 }
