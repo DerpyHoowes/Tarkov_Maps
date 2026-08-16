@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "id": "16a0e80902e343ae88c9b5ab357e2611",
+  "id": "d77e0f675f694c4bb3078856b6203b62",
   "name": "Customs",
   "baseImage": "assets/989bada2295d423c587e.png",
   "imageWidth": 3820,
@@ -234,9 +234,9 @@
     "repo": "Tarkov_Maps",
     "branch": "main",
     "folderPath": "maps/Customs",
-    "lastCommitSha": "6ad9a0a5b2d385b757131f383a990b6b4212ec49",
-    "lastFolderSha": "c8a8150bd6be2fa45e092969b55a9c53f89f4f37",
-    "lastSyncUtc": "2026-08-13T22:08:48.7266744Z"
+    "lastCommitSha": "bc254ed82b0d3c474cffb99a2a75ba555a57b5d6",
+    "lastFolderSha": "6af41d9ef88dab3cf67a196459308c6921d71ed9",
+    "lastSyncUtc": "2026-08-16T10:26:08.7737772Z"
   },
-  "modifiedUtc": "2026-08-13T22:25:12.4188972Z"
+  "modifiedUtc": "2026-08-16T10:26:25.4087536Z"
 }
