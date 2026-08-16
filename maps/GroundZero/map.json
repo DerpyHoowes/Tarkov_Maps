@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "id": "59bc83411ff847abb960376a363d5799",
+  "id": "7e49cc0a403249cd994da1f5fa9ba744",
   "name": "Ground Zero",
   "baseImage": "assets/0c065bcf9182b9dcc65a.webp",
   "imageWidth": 6920,
@@ -147,9 +147,9 @@
     "repo": "Tarkov_Maps",
     "branch": "main",
     "folderPath": "maps/GroundZero",
-    "lastCommitSha": "a679cce49d5c8bb07d2a92e1eee01d5f79463caa",
-    "lastFolderSha": "87454e494902c0486b80bfe251421fbaac0c8479",
-    "lastSyncUtc": "2026-08-13T16:00:19.1524096Z"
+    "lastCommitSha": "68e68cfca8d075ed4cb1bbaeb831d41d639888fa",
+    "lastFolderSha": "b09e413fd5ad79648c115cc0d16a512a8a401750",
+    "lastSyncUtc": "2026-08-16T10:26:58.7195468Z"
   },
-  "modifiedUtc": "2026-08-13T16:00:59.8059486Z"
+  "modifiedUtc": "2026-08-16T10:27:11.7307018Z"
 }
