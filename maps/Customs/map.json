@@ -207,6 +207,24 @@
       "photos": [],
       "createdUtc": "2026-08-13T22:24:49.5282809Z",
       "modifiedUtc": "2026-08-13T22:25:01.2514006Z"
+    },
+    {
+      "id": "1421024affaf48c192e52bac1f171754",
+      "name": "Financial doc. Director\u0027s office",
+      "description": "",
+      "categoryId": "9f657976ca804475b0780a0c9aa31b5d",
+      "x": 1685.78,
+      "y": 1179.53,
+      "scale": 1,
+      "photos": [
+        {
+          "id": "f49c190706df4192a19dba91b206e519",
+          "asset": "assets/541deeb57ffebb9a7a99.png",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-16T11:52:50.3518087Z",
+      "modifiedUtc": "2026-08-16T11:53:09.2960654Z"
     }
   ],
   "translations": [
@@ -234,9 +252,9 @@
     "repo": "Tarkov_Maps",
     "branch": "main",
     "folderPath": "maps/Customs",
-    "lastCommitSha": "2929c0b9fb23c485199824b650eda326b932756d",
-    "lastFolderSha": "2977e5567bc9cdfe794cc23765a0cec5eba0bb2e",
-    "lastSyncUtc": "2026-08-16T10:27:29.9893753Z"
+    "lastCommitSha": "5e113f3774b0cd4532cebcd1c76448fa7a6ff9cb",
+    "lastFolderSha": "fa93fb3578bc3124bface6618bcb111bbbf8b5d4",
+    "lastSyncUtc": "2026-08-16T11:52:17.0223967Z"
   },
-  "modifiedUtc": "2026-08-16T11:52:13.091207Z"
+  "modifiedUtc": "2026-08-16T11:53:19.2606296Z"
 }
