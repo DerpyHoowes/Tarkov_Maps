@@ -93,8 +93,8 @@
       "name": "Financial doc. in library",
       "description": "Library first floor, behind wooden doors, on the floor besides books",
       "categoryId": "9f657976ca804475b0780a0c9aa31b5d",
-      "x": 1635.9816776017558,
-      "y": 1525.2508118330347,
+      "x": 1354.6692708140788,
+      "y": 1805.835353635744,
       "scale": 1,
       "photos": [
         {
@@ -104,19 +104,19 @@
         }
       ],
       "createdUtc": "2026-08-11T08:01:45.608403Z",
-      "modifiedUtc": "2026-08-13T22:18:23.7764552Z"
+      "modifiedUtc": "2026-08-16T11:51:55.7755198Z"
     },
     {
       "id": "08bf3effa44c45b790773c635b528a35",
       "name": "Project doc. in library",
       "description": "Library first floor, behind wooden doors, on a bookshelf",
       "categoryId": "2370cef0309d4b929616b96deeddcd09",
-      "x": 1631.8025170840542,
-      "y": 1545.5578708211963,
+      "x": 1346.728760839606,
+      "y": 1821.8865165462037,
       "scale": 1,
       "photos": [],
       "createdUtc": "2026-08-11T08:23:26.335809Z",
-      "modifiedUtc": "2026-08-13T22:18:25.9205257Z"
+      "modifiedUtc": "2026-08-16T11:52:07.1715849Z"
     },
     {
       "id": "7ddeb2b47cdf48828039814f5836818d",
@@ -171,8 +171,8 @@
       "name": "Financial doc. Library",
       "description": "On the bookshelf close to room\u0027s end",
       "categoryId": "9f657976ca804475b0780a0c9aa31b5d",
-      "x": 1644.4177029582586,
-      "y": 1551.9532895929765,
+      "x": 1334.8731983583896,
+      "y": 1829.4867769717864,
       "scale": 1,
       "photos": [
         {
@@ -182,7 +182,7 @@
         }
       ],
       "createdUtc": "2026-08-13T22:17:14.4285776Z",
-      "modifiedUtc": "2026-08-13T22:18:24.8143139Z"
+      "modifiedUtc": "2026-08-16T11:51:58.2717636Z"
     },
     {
       "id": "c78a5e4aaaeb45d5acee45126b8602b0",
@@ -234,9 +234,9 @@
     "repo": "Tarkov_Maps",
     "branch": "main",
     "folderPath": "maps/Customs",
-    "lastCommitSha": "bc254ed82b0d3c474cffb99a2a75ba555a57b5d6",
-    "lastFolderSha": "6af41d9ef88dab3cf67a196459308c6921d71ed9",
-    "lastSyncUtc": "2026-08-16T10:26:08.7737772Z"
+    "lastCommitSha": "2929c0b9fb23c485199824b650eda326b932756d",
+    "lastFolderSha": "2977e5567bc9cdfe794cc23765a0cec5eba0bb2e",
+    "lastSyncUtc": "2026-08-16T10:27:29.9893753Z"
   },
-  "modifiedUtc": "2026-08-16T10:26:25.4087536Z"
+  "modifiedUtc": "2026-08-16T11:52:13.091207Z"
 }
