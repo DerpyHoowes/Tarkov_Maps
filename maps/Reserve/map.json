@@ -1,6 +1,6 @@
 {
-  "schemaVersion": 2,
-  "id": "16a0e80902e343ae88c9b5ab357e2611",
+  "schemaVersion": 3,
+  "id": "dc467ae7eeb84232a61adb37fa604972",
   "name": "Reserve",
   "baseImage": "assets/6d4497cfcadbd2e55262.webp",
   "imageWidth": 4701,
@@ -98,6 +98,7 @@
       "scale": 1,
       "photos": [
         {
+          "id": "555a528d769649869df1492c475f1c42",
           "asset": "assets/256637bbc2991dde658e.jpg",
           "caption": ""
         }
@@ -115,6 +116,7 @@
       "scale": 1,
       "photos": [
         {
+          "id": "c3dc93a165e0461985e6ae455f0b83a8",
           "asset": "assets/256637bbc2991dde658e.jpg",
           "caption": ""
         }
@@ -132,10 +134,12 @@
       "scale": 1,
       "photos": [
         {
+          "id": "ab851c84f3a644468c53c1ba850831a4",
           "asset": "assets/0323ca5051166d1c14f3.jpg",
           "caption": ""
         },
         {
+          "id": "5ab7b95f279044409a5205517f8e36ac",
           "asset": "assets/4402471b0e7414678da4.webp",
           "caption": ""
         }
@@ -153,10 +157,12 @@
       "scale": 1,
       "photos": [
         {
+          "id": "ecf3102983c84cd7b88f3a937fbfa577",
           "asset": "assets/4402471b0e7414678da4.webp",
           "caption": ""
         },
         {
+          "id": "add41b2c7cb249238b6b2359038ed9a4",
           "asset": "assets/0323ca5051166d1c14f3.jpg",
           "caption": ""
         }
@@ -174,6 +180,7 @@
       "scale": 1,
       "photos": [
         {
+          "id": "4c104d2cafa04676b0ebc92faced48b2",
           "asset": "assets/c3b7b9a19fef38f05cf4.jpg",
           "caption": ""
         }
@@ -203,6 +210,7 @@
       "scale": 1,
       "photos": [
         {
+          "id": "acb698c6ba084e31a8c86dabf5393b90",
           "asset": "assets/e2c641ff79d229fc93a0.jpg",
           "caption": ""
         }
@@ -232,6 +240,7 @@
       "scale": 1,
       "photos": [
         {
+          "id": "65f58bec406b402fa0f5cd290289a0f8",
           "asset": "assets/f3570a851cddd3c557cc.jpg",
           "caption": ""
         }
@@ -249,6 +258,7 @@
       "scale": 1,
       "photos": [
         {
+          "id": "c1f4e84d79124f8d870357a0e24e5d7c",
           "asset": "assets/c84692e9bd4e29639c9e.jpg",
           "caption": ""
         }
@@ -266,6 +276,7 @@
       "scale": 1,
       "photos": [
         {
+          "id": "6dd39734e23a4a0fb0447d8ff098e7cc",
           "asset": "assets/6e13728e756096c1d995.jpg",
           "caption": ""
         }
@@ -283,6 +294,7 @@
       "scale": 1,
       "photos": [
         {
+          "id": "14d1d0498eca455dbbd79227a9062115",
           "asset": "assets/6a07a4331991f2b83fa1.jpg",
           "caption": ""
         }
@@ -300,6 +312,7 @@
       "scale": 1,
       "photos": [
         {
+          "id": "931fe59ee8ea46efbfccd8ed28e14f89",
           "asset": "assets/a1fd83b8ff48a2e1887b.jpg",
           "caption": ""
         }
@@ -317,6 +330,7 @@
       "scale": 1,
       "photos": [
         {
+          "id": "161cafb619194d33adfb89ed394cac9a",
           "asset": "assets/62d72463c80cf43f7553.jpg",
           "caption": ""
         }
@@ -334,6 +348,7 @@
       "scale": 1,
       "photos": [
         {
+          "id": "f5f2e1b1589c44dbb74970ca47b59ff8",
           "asset": "assets/62d72463c80cf43f7553.jpg",
           "caption": ""
         }
@@ -351,6 +366,7 @@
       "scale": 1,
       "photos": [
         {
+          "id": "a4b2c8772b204a3e8fe8642bbe27b60b",
           "asset": "assets/eff095b8ecb961aa2d0a.png",
           "caption": ""
         }
@@ -368,6 +384,7 @@
       "scale": 1,
       "photos": [
         {
+          "id": "a5a7bfc88a694b79aee527183a4e7563",
           "asset": "assets/eff095b8ecb961aa2d0a.png",
           "caption": ""
         }
@@ -376,14 +393,15 @@
       "modifiedUtc": "2026-08-11T13:58:35.4980113Z"
     }
   ],
+  "translations": [],
   "sync": {
     "owner": "DerpyHoowes",
     "repo": "Tarkov_Maps",
     "branch": "main",
     "folderPath": "maps/Reserve",
-    "lastCommitSha": "ce78d82c46c15b4e628f73a8db9cc0d9ec16deaf",
-    "lastFolderSha": "6ae49124858aecf361464fa1c438910fb501ef1e",
-    "lastSyncUtc": "2026-08-11T13:53:37.991837Z"
+    "lastCommitSha": "7ade1bab4d0586663e58f531eadf76a398fe2349",
+    "lastFolderSha": "ecc18b12e6e7c3d8982af9271fcc44823f924f37",
+    "lastSyncUtc": "2026-08-16T10:24:47.0409875Z"
   },
-  "modifiedUtc": "2026-08-11T13:59:56.0714542Z"
+  "modifiedUtc": "2026-08-16T10:25:37.1301815Z"
 }
