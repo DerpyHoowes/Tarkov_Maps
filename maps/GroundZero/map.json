@@ -155,18 +155,6 @@
       "modifiedUtc": "2026-08-16T13:44:55.4527508Z"
     },
     {
-      "id": "6b5091e818484355ba7690d35a0393cc",
-      "name": "User Doc TG Office 4",
-      "description": "",
-      "categoryId": "010d49d821a54f49ad6807f3757a74ec",
-      "x": 4385.044717749751,
-      "y": 2233.3269316657293,
-      "scale": 1,
-      "photos": [],
-      "createdUtc": "2026-08-16T13:45:16.3845818Z",
-      "modifiedUtc": "2026-08-19T20:05:23.6167708Z"
-    },
-    {
       "id": "9318738eb4e5406491ed3e05862a6013",
       "name": "Medical Doc. TG Office 3",
       "description": "",
@@ -465,6 +453,60 @@
       ],
       "createdUtc": "2026-08-19T22:18:46.7109027Z",
       "modifiedUtc": "2026-08-19T22:18:57.5693957Z"
+    },
+    {
+      "id": "0b5a2caec45043c18080268aae234a0a",
+      "name": "Medical Doc. Emercom Parking",
+      "description": "",
+      "categoryId": "a772bad2445446ab848f81a6a43b00f7",
+      "x": 2337.66,
+      "y": 882.81,
+      "scale": 1,
+      "photos": [
+        {
+          "id": "1e8b5019c92841899f18b6d861494190",
+          "asset": "assets/b48fe2fc64f5fbbf3015.png",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-19T22:49:36.5214124Z",
+      "modifiedUtc": "2026-08-19T22:49:56.3226582Z"
+    },
+    {
+      "id": "ddf7b0c5ea5f40648459996b6888ca25",
+      "name": "Medical Doc. Nakatani Bus Stop",
+      "description": "",
+      "categoryId": "a772bad2445446ab848f81a6a43b00f7",
+      "x": 3285.61,
+      "y": 5468.95,
+      "scale": 1,
+      "photos": [
+        {
+          "id": "914e9b0518624a3cb9eeb9da0a00766a",
+          "asset": "assets/5dfd2be19c4368a5de77.png",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-19T23:02:09.7096574Z",
+      "modifiedUtc": "2026-08-19T23:02:38.2042094Z"
+    },
+    {
+      "id": "1104964e3b154b83a03c6d74917620f7",
+      "name": "Medical Doc. Underground South",
+      "description": "",
+      "categoryId": "a772bad2445446ab848f81a6a43b00f7",
+      "x": 6047.27,
+      "y": 3121.6,
+      "scale": 1,
+      "photos": [
+        {
+          "id": "4bb091152b8b47f0ba598f2baae66158",
+          "asset": "assets/19d0778e0a53dd3acba4.png",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-19T23:07:10.318036Z",
+      "modifiedUtc": "2026-08-19T23:07:28.7358178Z"
     }
   ],
   "translations": [
@@ -489,9 +531,9 @@
     "repo": "Tarkov_Maps",
     "branch": "main",
     "folderPath": "maps/GroundZero",
-    "lastCommitSha": "ffef3202276119433f91fba1bd7660ce682f6595",
-    "lastFolderSha": "a22f2e8ac70d21d347fac534a6bdcb91c31d9b60",
-    "lastSyncUtc": "2026-08-19T20:27:15.0682307Z"
+    "lastCommitSha": "b67029983a526ac0354bb353335e667258ac07f8",
+    "lastFolderSha": "770cff9667a509b1e9e111f60727c4e6440ae579",
+    "lastSyncUtc": "2026-08-19T22:28:24.5250301Z"
   },
-  "modifiedUtc": "2026-08-19T22:27:15.9647829Z"
+  "modifiedUtc": "2026-08-19T23:32:36.9447419Z"
 }
