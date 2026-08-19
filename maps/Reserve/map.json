@@ -391,6 +391,108 @@
       ],
       "createdUtc": "2026-08-11T13:57:47.2786393Z",
       "modifiedUtc": "2026-08-11T13:58:35.4980113Z"
+    },
+    {
+      "id": "338273d58fd7406ebd4649fdc8549810",
+      "name": "PMC Doc K Building 4",
+      "description": "On a nightstand inside K Building 4.",
+      "categoryId": "7b8ab6f339034d2dac053772ecfcd28c",
+      "x": 1288.26,
+      "y": 926.3,
+      "scale": 1,
+      "photos": [
+        {
+          "id": "85bdf4afb6734308be43d819fa8d7051",
+          "asset": "assets/c26d236347a7bc056c11.png",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-17T16:38:35.8047502Z",
+      "modifiedUtc": "2026-08-17T17:20:36.7246659Z"
+    },
+    {
+      "id": "970461e0170148fb90f5e6edf512d791",
+      "name": "PMC Doc Train car",
+      "description": "",
+      "categoryId": "7b8ab6f339034d2dac053772ecfcd28c",
+      "x": 1530.32,
+      "y": 1010.05,
+      "scale": 1,
+      "photos": [],
+      "createdUtc": "2026-08-17T16:48:11.8486968Z",
+      "modifiedUtc": "2026-08-17T16:48:21.2455332Z"
+    },
+    {
+      "id": "c6087fbfc42a4da295d2715ecf0ba352",
+      "name": "PMC Doc White Knight 3F",
+      "description": "Inside white knight on 3rd floor in the last room of the corridor.",
+      "categoryId": "7b8ab6f339034d2dac053772ecfcd28c",
+      "x": 1282.12,
+      "y": 1315.12,
+      "scale": 1,
+      "photos": [
+        {
+          "id": "5c20d15f4deb4a66ab62d9d75d33a0d4",
+          "asset": "assets/11a0e04e208438721f1d.png",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-17T16:49:00.6725484Z",
+      "modifiedUtc": "2026-08-17T16:49:40.6596071Z"
+    },
+    {
+      "id": "cc85aea5b5e743fb9798d452203c4edd",
+      "name": "PMC Doc Black Bishop Basement",
+      "description": "",
+      "categoryId": "7b8ab6f339034d2dac053772ecfcd28c",
+      "x": 4310.27,
+      "y": 268.35,
+      "scale": 1,
+      "photos": [],
+      "createdUtc": "2026-08-17T16:54:42.0523353Z",
+      "modifiedUtc": "2026-08-17T16:54:59.5973688Z"
+    },
+    {
+      "id": "9ff65ae4472d4cbeb0ef4dc64fbdea85",
+      "name": "PMC Doc Black Bishop 2F",
+      "description": "",
+      "categoryId": "7b8ab6f339034d2dac053772ecfcd28c",
+      "x": 4086.24,
+      "y": 2464.58,
+      "scale": 1,
+      "photos": [
+        {
+          "id": "5374183ae8a54906972cee1d536aa8c3",
+          "asset": "assets/f1978e35271d75514000.png",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-17T16:57:00.0982729Z",
+      "modifiedUtc": "2026-08-17T17:24:27.9885756Z"
+    },
+    {
+      "id": "9f0d68bf75b540d19a91cd1f7365a269",
+      "name": "PMC Doc D2",
+      "description": "",
+      "categoryId": "7b8ab6f339034d2dac053772ecfcd28c",
+      "x": 4094.56,
+      "y": 1126.08,
+      "scale": 1,
+      "photos": [],
+      "createdUtc": "2026-08-17T17:20:07.1577293Z",
+      "modifiedUtc": "2026-08-17T17:20:15.2606763Z"
+    },
+    {
+      "id": "f2150cb70c75415785b5d65b435c712f",
+      "name": "PMC Doc Queen KRPL",
+      "description": "",
+      "categoryId": "7b8ab6f339034d2dac053772ecfcd28c",
+      "x": 2163.91,
+      "y": 2220.02,
+      "scale": 1,
+      "photos": [],
+      "createdUtc": "2026-08-17T17:23:44.6614905Z",
+      "modifiedUtc": "2026-08-17T17:24:14.9725807Z"
     }
   ],
   "translations": [],
@@ -399,9 +501,9 @@
     "repo": "Tarkov_Maps",
     "branch": "main",
     "folderPath": "maps/Reserve",
-    "lastCommitSha": "7ade1bab4d0586663e58f531eadf76a398fe2349",
-    "lastFolderSha": "ecc18b12e6e7c3d8982af9271fcc44823f924f37",
-    "lastSyncUtc": "2026-08-16T10:24:47.0409875Z"
+    "lastCommitSha": "2929c0b9fb23c485199824b650eda326b932756d",
+    "lastFolderSha": "3fc7be4bd5dae7910c2181e2b70aef684da7b15a",
+    "lastSyncUtc": "2026-08-16T10:29:07.8828771Z"
   },
-  "modifiedUtc": "2026-08-16T10:25:37.1301815Z"
+  "modifiedUtc": "2026-08-19T20:23:24.8796064Z"
 }
