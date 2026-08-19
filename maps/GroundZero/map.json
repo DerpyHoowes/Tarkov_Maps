@@ -108,7 +108,7 @@
     },
     {
       "id": "9e75cf0a4e894d4880da839684bdf847",
-      "name": "User Doc Tarbank 1F",
+      "name": "User Doc. Tarbank 1F",
       "description": "On a bookshelf",
       "categoryId": "010d49d821a54f49ad6807f3757a74ec",
       "x": 2924.43,
@@ -122,7 +122,7 @@
         }
       ],
       "createdUtc": "2026-08-13T15:58:42.485148Z",
-      "modifiedUtc": "2026-08-19T19:26:40.4955763Z"
+      "modifiedUtc": "2026-08-19T22:08:18.4339245Z"
     },
     {
       "id": "d4327cd60ea541a0ac805c4a3aff1680",
@@ -222,7 +222,7 @@
     },
     {
       "id": "85c5f32862264c9f86c99a6087c87368",
-      "name": "Medical Doc. Restaurant",
+      "name": "Medical Doc. Restaurant 1F",
       "description": "",
       "categoryId": "a772bad2445446ab848f81a6a43b00f7",
       "x": 2409.722933518991,
@@ -236,7 +236,7 @@
         }
       ],
       "createdUtc": "2026-08-19T19:23:49.1282671Z",
-      "modifiedUtc": "2026-08-19T19:24:23.8523553Z"
+      "modifiedUtc": "2026-08-19T22:11:40.9939674Z"
     },
     {
       "id": "ae60b85f2e514ac6af31e536f173fd65",
@@ -333,18 +333,18 @@
       "name": "Medical Doc. TG Office 4",
       "description": "",
       "categoryId": "a772bad2445446ab848f81a6a43b00f7",
-      "x": 4447.29,
-      "y": 2279.66,
+      "x": 4451.943912862985,
+      "y": 2280.177101429221,
       "scale": 1,
       "photos": [
         {
-          "id": "f983ea77ad7b4188a652b8e995ed2034",
-          "asset": "assets/20ed13f097a09b98dc91.png",
+          "id": "1427b1c79c5f41aca045472c5e9591b1",
+          "asset": "assets/090ded999413aac4caa5.png",
           "caption": ""
         }
       ],
       "createdUtc": "2026-08-19T20:01:01.3827899Z",
-      "modifiedUtc": "2026-08-19T20:03:02.0881809Z"
+      "modifiedUtc": "2026-08-19T22:05:06.7832729Z"
     },
     {
       "id": "f5f97ece991343398d7537390e20a5eb",
@@ -381,6 +381,90 @@
       ],
       "createdUtc": "2026-08-19T20:04:08.7290027Z",
       "modifiedUtc": "2026-08-19T20:04:38.5887581Z"
+    },
+    {
+      "id": "3bbd51de2dcb4197be7268ada716b8ee",
+      "name": "User Doc. TG Office Reception 2F",
+      "description": "",
+      "categoryId": "010d49d821a54f49ad6807f3757a74ec",
+      "x": 4727.29,
+      "y": 2502.16,
+      "scale": 1,
+      "photos": [
+        {
+          "id": "2c552bf573474ae594649378778bca86",
+          "asset": "assets/3a2221f39ee08f6585a4.png",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-19T22:01:38.9373286Z",
+      "modifiedUtc": "2026-08-19T22:02:34.1389481Z"
+    },
+    {
+      "id": "8d50417fdf83408391afa76713fec555",
+      "name": "User Doc. Tarbank 1F",
+      "description": "",
+      "categoryId": "010d49d821a54f49ad6807f3757a74ec",
+      "x": 3141.57,
+      "y": 3289.16,
+      "scale": 1,
+      "photos": [],
+      "createdUtc": "2026-08-19T22:07:56.7609173Z",
+      "modifiedUtc": "2026-08-19T22:08:10.1938893Z"
+    },
+    {
+      "id": "ba2d2e766bae4baabda2f5266b5dba7e",
+      "name": "User Doc. Restaurant 2F",
+      "description": "",
+      "categoryId": "010d49d821a54f49ad6807f3757a74ec",
+      "x": 645.81,
+      "y": 3442.48,
+      "scale": 1,
+      "photos": [
+        {
+          "id": "1248c143582f42b7937b88a5642ca8dd",
+          "asset": "assets/78d8a9c5afcc3990889a.png",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-19T22:10:58.8988673Z",
+      "modifiedUtc": "2026-08-19T22:11:31.8768503Z"
+    },
+    {
+      "id": "a717893665014f1db3362a768609d595",
+      "name": "Medical Doc. Gagarin Hotel",
+      "description": "",
+      "categoryId": "a772bad2445446ab848f81a6a43b00f7",
+      "x": 2929.49,
+      "y": 4453.77,
+      "scale": 1,
+      "photos": [
+        {
+          "id": "aa7628271e2c48578746e9f0f747a30f",
+          "asset": "assets/50795c557bc0f3162f1b.png",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-19T22:15:31.4489873Z",
+      "modifiedUtc": "2026-08-19T22:15:50.1965722Z"
+    },
+    {
+      "id": "f5715207945f447d8388d0a5060d3dea",
+      "name": "Medical Doc. Fusion 2F",
+      "description": "",
+      "categoryId": "a772bad2445446ab848f81a6a43b00f7",
+      "x": 850.98,
+      "y": 2981.54,
+      "scale": 1,
+      "photos": [
+        {
+          "id": "3311661d96e44cebad5f96b5e87664f6",
+          "asset": "assets/06fd1312fd53cd3071a3.png",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-19T22:18:46.7109027Z",
+      "modifiedUtc": "2026-08-19T22:18:57.5693957Z"
     }
   ],
   "translations": [
@@ -405,9 +489,9 @@
     "repo": "Tarkov_Maps",
     "branch": "main",
     "folderPath": "maps/GroundZero",
-    "lastCommitSha": "2929c0b9fb23c485199824b650eda326b932756d",
-    "lastFolderSha": "3f7972bf0833589d3a1fb49ba887c142ca8fe232",
-    "lastSyncUtc": "2026-08-16T10:27:14.6695699Z"
+    "lastCommitSha": "ffef3202276119433f91fba1bd7660ce682f6595",
+    "lastFolderSha": "a22f2e8ac70d21d347fac534a6bdcb91c31d9b60",
+    "lastSyncUtc": "2026-08-19T20:27:15.0682307Z"
   },
-  "modifiedUtc": "2026-08-19T20:24:10.0095911Z"
+  "modifiedUtc": "2026-08-19T22:27:15.9647829Z"
 }
