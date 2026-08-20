@@ -507,6 +507,60 @@
       ],
       "createdUtc": "2026-08-19T23:07:10.318036Z",
       "modifiedUtc": "2026-08-19T23:07:28.7358178Z"
+    },
+    {
+      "id": "f631e3fd65494e29affec83acb876186",
+      "name": "Medical Doc. Underground North",
+      "description": "",
+      "categoryId": "a772bad2445446ab848f81a6a43b00f7",
+      "x": 6051.76,
+      "y": 1600.21,
+      "scale": 1,
+      "photos": [
+        {
+          "id": "fa008b1ea28d414c884d40a125f61551",
+          "asset": "assets/15c3ece80b6105be39d7.png",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-20T08:21:37.2679423Z",
+      "modifiedUtc": "2026-08-20T08:22:09.4962615Z"
+    },
+    {
+      "id": "cad918b9fac7460b8c27c9cfcdadad3a",
+      "name": "Medical Doc. Emercom Wheelchair",
+      "description": "",
+      "categoryId": "a772bad2445446ab848f81a6a43b00f7",
+      "x": 1900.69,
+      "y": 860.33,
+      "scale": 1,
+      "photos": [
+        {
+          "id": "aa0953861f0c42b0923126d46046a542",
+          "asset": "assets/b08d87aeffdd78b1019b.png",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-20T08:22:37.0838722Z",
+      "modifiedUtc": "2026-08-20T08:22:57.4522347Z"
+    },
+    {
+      "id": "0ab655358cb14176be28f079e43c21f5",
+      "name": "User Doc. TG Office 4",
+      "description": "",
+      "categoryId": "010d49d821a54f49ad6807f3757a74ec",
+      "x": 4395.82,
+      "y": 2235.56,
+      "scale": 1,
+      "photos": [
+        {
+          "id": "e1e19fed90554c578d264dda33e37ba3",
+          "asset": "assets/cdac39fff29ab2e30860.png",
+          "caption": ""
+        }
+      ],
+      "createdUtc": "2026-08-20T08:23:17.364006Z",
+      "modifiedUtc": "2026-08-20T08:23:39.7562672Z"
     }
   ],
   "translations": [
@@ -531,9 +585,9 @@
     "repo": "Tarkov_Maps",
     "branch": "main",
     "folderPath": "maps/GroundZero",
-    "lastCommitSha": "b67029983a526ac0354bb353335e667258ac07f8",
-    "lastFolderSha": "770cff9667a509b1e9e111f60727c4e6440ae579",
-    "lastSyncUtc": "2026-08-19T22:28:24.5250301Z"
+    "lastCommitSha": "d41fdc8e16201a8fc018e626c00995265945155f",
+    "lastFolderSha": "4941dcfec9cde244ea72ec1c083096e5b8584c81",
+    "lastSyncUtc": "2026-08-20T08:20:40.1375859Z"
   },
-  "modifiedUtc": "2026-08-19T23:32:36.9447419Z"
+  "modifiedUtc": "2026-08-20T08:24:41.7246273Z"
 }
