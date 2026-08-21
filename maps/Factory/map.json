@@ -419,8 +419,8 @@
       "name": "Blueprints Dead body",
       "description": "In the underground tunnel under Medical tent, beside dead PMC\u0027s legs",
       "categoryId": "15f56b19debf4ba588781b1cb92f6776",
-      "x": 769.07,
-      "y": 271.03,
+      "x": 733.2279910504302,
+      "y": 188.92663102942055,
       "scale": 1,
       "photos": [
         {
@@ -430,7 +430,7 @@
         }
       ],
       "createdUtc": "2026-08-11T09:23:52.3797814Z",
-      "modifiedUtc": "2026-08-11T12:20:17.1863181Z"
+      "modifiedUtc": "2026-08-21T15:48:48.6589107Z"
     },
     {
       "id": "7313fe7f97cc4172a48587f849f4cccb",
@@ -652,9 +652,9 @@
     "repo": "Tarkov_Maps",
     "branch": "main",
     "folderPath": "maps/Factory",
-    "lastCommitSha": "81a4d4b869862015fdb6d1d57d2487566a0f9c37",
-    "lastFolderSha": "0cda27e58334e0a7fb5c5e490656770e4a2effd3",
-    "lastSyncUtc": "2026-08-13T21:42:45.8655101Z"
+    "lastCommitSha": "2929c0b9fb23c485199824b650eda326b932756d",
+    "lastFolderSha": "c26212beed24d48ce94b332d8626fc39efe57def",
+    "lastSyncUtc": "2026-08-16T10:27:55.7279397Z"
   },
-  "modifiedUtc": "2026-08-13T22:07:33.9984362Z"
+  "modifiedUtc": "2026-08-21T15:48:54.9982339Z"
 }
